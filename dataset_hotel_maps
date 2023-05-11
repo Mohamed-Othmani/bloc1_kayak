@@ -1,0 +1,1824 @@
+,hotel_name,city,latitude,longitude
+0,Hôtel Vert,Mont Saint Michel,48.6147297,-1.5093548
+1,Hôtel Vert,St Malo,48.6147297,-1.5093548
+2,Hôtel Vert,Bayeux,49.27643699999999,-0.70314
+3,Hôtel Vert,Le Havre,49.49437,0.107929
+4,Hôtel Vert,Rouen,49.44323199999999,1.099971
+5,Hôtel Vert,Paris,48.856614,2.3522219
+6,Hôtel Vert,Amiens,49.894067,2.295753
+7,Hôtel Vert,Lille,50.62925,3.057256
+8,Hôtel Vert,Strasbourg,48.5734053,7.752111299999999
+9,Hôtel Vert,Colmar,48.0793589,7.358511999999999
+10,Hôtel Vert,Eguisheim,48.043265,7.306521999999999
+11,Hôtel Vert,Besancon,47.237829,6.024053899999999
+12,Hôtel Vert,Dijon,47.322047,5.04148
+13,Hôtel Vert,Annecy,45.899247,6.129384
+14,Hôtel Vert,Grenoble,45.188529,5.724524
+15,Hôtel Vert,Lyon,45.7610747,4.853769
+16,Hôtel Vert,Bormes les Mimosas,43.151682,6.342201999999999
+17,Hôtel Vert,Cassis,43.215134,5.53712
+18,Hôtel Vert,Marseille,43.296482,5.36978
+19,Hôtel Vert,Aix en Provence,43.529742,5.447426999999999
+20,Hôtel Vert,Avignon,43.94931700000001,4.805528
+21,Hôtel Vert,Uzes,44.01211,4.419945999999999
+22,Hôtel Vert,Nimes,43.836699,4.360054
+23,Hôtel Vert,Aigues Mortes,43.567172,4.1925869
+24,Hôtel Vert,Saintes Maries de la mer,43.453241,4.429074
+25,Hôtel Vert,Collioure,42.52675199999999,3.084631
+26,Hôtel Vert,Carcassonne,43.2132151,2.3517703
+27,Hôtel Vert,Ariege,42.9326292,1.443469
+28,Hôtel Vert,Toulouse,43.604652,1.444209
+29,Hôtel Vert,Montauban,44.0221252,1.3529599
+30,Hôtel Vert,Biarritz,43.4831519,-1.558626
+31,Hôtel Vert,Bayonne,43.492949,-1.474841
+32,Hôtel Vert,La Rochelle,46.160329,-1.151139
+33,Chambres d'Hôtes Les Vieilles Digues,Mont Saint Michel,48.6039915,-1.5110965
+34,Chambres d'Hôtes Les Vieilles Digues,St Malo,48.6039915,-1.5110965
+35,Chambres d'Hôtes Les Vieilles Digues,Bayeux,49.27643699999999,-0.70314
+36,Chambres d'Hôtes Les Vieilles Digues,Le Havre,49.4559507,0.1358503
+37,Chambres d'Hôtes Les Vieilles Digues,Rouen,49.44323199999999,1.099971
+38,Chambres d'Hôtes Les Vieilles Digues,Paris,48.856614,2.3522219
+39,Chambres d'Hôtes Les Vieilles Digues,Amiens,49.894067,2.295753
+40,Chambres d'Hôtes Les Vieilles Digues,Lille,50.62925,3.057256
+41,Chambres d'Hôtes Les Vieilles Digues,Strasbourg,48.5734053,7.752111299999999
+42,Chambres d'Hôtes Les Vieilles Digues,Colmar,48.0793589,7.358511999999999
+43,Chambres d'Hôtes Les Vieilles Digues,Eguisheim,48.043265,7.306521999999999
+44,Chambres d'Hôtes Les Vieilles Digues,Besancon,47.237829,6.024053899999999
+45,Chambres d'Hôtes Les Vieilles Digues,Dijon,47.322047,5.04148
+46,Chambres d'Hôtes Les Vieilles Digues,Annecy,45.899247,6.129384
+47,Chambres d'Hôtes Les Vieilles Digues,Grenoble,45.188529,5.724524
+48,Chambres d'Hôtes Les Vieilles Digues,Lyon,45.764043,4.835659
+49,Chambres d'Hôtes Les Vieilles Digues,Bormes les Mimosas,43.151682,6.342201999999999
+50,Chambres d'Hôtes Les Vieilles Digues,Cassis,43.215134,5.53712
+51,Chambres d'Hôtes Les Vieilles Digues,Marseille,43.2794419,5.3123794
+52,Chambres d'Hôtes Les Vieilles Digues,Aix en Provence,43.529742,5.447426999999999
+53,Chambres d'Hôtes Les Vieilles Digues,Avignon,43.94931700000001,4.805528
+54,Chambres d'Hôtes Les Vieilles Digues,Uzes,44.01211,4.419945999999999
+55,Chambres d'Hôtes Les Vieilles Digues,Nimes,43.836699,4.360054
+56,Chambres d'Hôtes Les Vieilles Digues,Aigues Mortes,43.567172,4.1925869
+57,Chambres d'Hôtes Les Vieilles Digues,Saintes Maries de la mer,43.453241,4.429074
+58,Chambres d'Hôtes Les Vieilles Digues,Collioure,42.52675199999999,3.084631
+59,Chambres d'Hôtes Les Vieilles Digues,Carcassonne,43.2132151,2.3517703
+60,Chambres d'Hôtes Les Vieilles Digues,Ariege,43.03010700000001,1.035735
+61,Chambres d'Hôtes Les Vieilles Digues,Toulouse,43.604652,1.444209
+62,Chambres d'Hôtes Les Vieilles Digues,Montauban,44.0221252,1.3529599
+63,Chambres d'Hôtes Les Vieilles Digues,Biarritz,43.4831519,-1.558626
+64,Chambres d'Hôtes Les Vieilles Digues,Bayonne,43.492949,-1.474841
+65,Chambres d'Hôtes Les Vieilles Digues,La Rochelle,46.155226,-1.174803
+66,Gites les 2 Clos au pied du Mont,Mont Saint Michel,48.613922,-1.4859743
+67,Gites les 2 Clos au pied du Mont,St Malo,48.649337,-2.025674
+68,Gites les 2 Clos au pied du Mont,Bayeux,49.27643699999999,-0.70314
+69,Gites les 2 Clos au pied du Mont,Le Havre,49.49437,0.107929
+70,Gites les 2 Clos au pied du Mont,Rouen,49.44323199999999,1.099971
+71,Gites les 2 Clos au pied du Mont,Paris,48.856614,2.3522219
+72,Gites les 2 Clos au pied du Mont,Amiens,49.894067,2.295753
+73,Gites les 2 Clos au pied du Mont,Lille,50.7880419,2.4755241
+74,Gites les 2 Clos au pied du Mont,Strasbourg,48.5734053,7.752111299999999
+75,Gites les 2 Clos au pied du Mont,Colmar,48.0793589,7.358511999999999
+76,Gites les 2 Clos au pied du Mont,Eguisheim,48.043265,7.306521999999999
+77,Gites les 2 Clos au pied du Mont,Besancon,47.0084788,5.8673331
+78,Gites les 2 Clos au pied du Mont,Dijon,47.322047,5.04148
+79,Gites les 2 Clos au pied du Mont,Annecy,45.899247,6.129384
+80,Gites les 2 Clos au pied du Mont,Grenoble,45.188529,5.724524
+81,Gites les 2 Clos au pied du Mont,Lyon,44.7036536,-73.8645877
+82,Gites les 2 Clos au pied du Mont,Bormes les Mimosas,43.151682,6.342201999999999
+83,Gites les 2 Clos au pied du Mont,Cassis,43.215134,5.53712
+84,Gites les 2 Clos au pied du Mont,Marseille,43.296482,5.36978
+85,Gites les 2 Clos au pied du Mont,Aix en Provence,43.529742,5.447426999999999
+86,Gites les 2 Clos au pied du Mont,Avignon,43.94931700000001,4.805528
+87,Gites les 2 Clos au pied du Mont,Uzes,44.01211,4.419945999999999
+88,Gites les 2 Clos au pied du Mont,Nimes,43.836699,4.360054
+89,Gites les 2 Clos au pied du Mont,Aigues Mortes,43.567172,4.1925869
+90,Gites les 2 Clos au pied du Mont,Saintes Maries de la mer,43.453241,4.429074
+91,Gites les 2 Clos au pied du Mont,Collioure,42.52675199999999,3.084631
+92,Gites les 2 Clos au pied du Mont,Carcassonne,43.2132151,2.3517703
+93,Gites les 2 Clos au pied du Mont,Ariege,42.9326292,1.443469
+94,Gites les 2 Clos au pied du Mont,Toulouse,43.604652,1.444209
+95,Gites les 2 Clos au pied du Mont,Montauban,44.0221252,1.3529599
+96,Gites les 2 Clos au pied du Mont,Biarritz,43.4831519,-1.558626
+97,Gites les 2 Clos au pied du Mont,Bayonne,43.492949,-1.474841
+98,Gites les 2 Clos au pied du Mont,La Rochelle,46.160329,-1.151139
+99,Gites Bellevue,Mont Saint Michel,48.6081056,-1.5168139
+100,Gites Bellevue,St Malo,48.649337,-2.025674
+101,Gites Bellevue,Bayeux,49.2728581,-0.6955745
+102,Gites Bellevue,Le Havre,49.501038,0.098478
+103,Gites Bellevue,Rouen,49.44323199999999,1.099971
+104,Gites Bellevue,Paris,48.856614,2.3522219
+105,Gites Bellevue,Amiens,49.894067,2.295753
+106,Gites Bellevue,Lille,50.62925,3.057256
+107,Gites Bellevue,Strasbourg,48.5734053,7.752111299999999
+108,Gites Bellevue,Colmar,48.0793589,7.358511999999999
+109,Gites Bellevue,Eguisheim,48.043265,7.306521999999999
+110,Gites Bellevue,Besancon,47.237829,6.024053899999999
+111,Gites Bellevue,Dijon,47.322047,5.04148
+112,Gites Bellevue,Annecy,45.919532,6.1246853
+113,Gites Bellevue,Grenoble,45.188529,5.724524
+114,Gites Bellevue,Lyon,45.764043,4.835659
+115,Gites Bellevue,Bormes les Mimosas,43.1517808,6.3431356
+116,Gites Bellevue,Cassis,43.228507,5.531681
+117,Gites Bellevue,Marseille,43.296482,5.36978
+118,Gites Bellevue,Aix en Provence,43.548148,5.434813999999999
+119,Gites Bellevue,Avignon,43.94931700000001,4.805528
+120,Gites Bellevue,Uzes,44.01211,4.419945999999999
+121,Gites Bellevue,Nimes,43.836699,4.360054
+122,Gites Bellevue,Aigues Mortes,43.567172,4.1925869
+123,Gites Bellevue,Saintes Maries de la mer,43.453241,4.429074
+124,Gites Bellevue,Collioure,42.528371,3.0854307
+125,Gites Bellevue,Carcassonne,43.20950029999999,2.3565331
+126,Gites Bellevue,Ariege,42.9326292,1.443469
+127,Gites Bellevue,Toulouse,43.604652,1.444209
+128,Gites Bellevue,Montauban,44.0221252,1.3529599
+129,Gites Bellevue,Biarritz,43.4831519,-1.558626
+130,Gites Bellevue,Bayonne,43.5057798,-1.4560711
+131,Gites Bellevue,La Rochelle,46.160329,-1.151139
+132,Mon Saint Michel,Mont Saint Michel,48.636063,-1.511457
+133,Mon Saint Michel,St Malo,48.636063,-1.511457
+134,Mon Saint Michel,Bayeux,48.636063,-1.511457
+135,Mon Saint Michel,Le Havre,48.636063,-1.511457
+136,Mon Saint Michel,Rouen,49.44323199999999,1.099971
+137,Mon Saint Michel,Paris,48.636063,-1.511457
+138,Mon Saint Michel,Amiens,48.636063,-1.511457
+139,Mon Saint Michel,Lille,48.636063,-1.511457
+140,Mon Saint Michel,Strasbourg,48.636063,-1.511457
+141,Mon Saint Michel,Chateau du Haut Koenigsbourg,48.636063,-1.511457
+142,Mon Saint Michel,Colmar,48.636063,-1.511457
+143,Mon Saint Michel,Eguisheim,48.636063,-1.511457
+144,Mon Saint Michel,Besancon,48.636063,-1.511457
+145,Mon Saint Michel,Dijon,48.636063,-1.511457
+146,Mon Saint Michel,Annecy,48.636063,-1.511457
+147,Mon Saint Michel,Grenoble,48.636063,-1.511457
+148,Mon Saint Michel,Lyon,48.636063,-1.511457
+149,Mon Saint Michel,Gorges du Verdon,48.636063,-1.511457
+150,Mon Saint Michel,Bormes les Mimosas,48.636063,-1.511457
+151,Mon Saint Michel,Cassis,48.636063,-1.511457
+152,Mon Saint Michel,Marseille,48.636063,-1.511457
+153,Mon Saint Michel,Aix en Provence,48.636063,-1.511457
+154,Mon Saint Michel,Avignon,48.636063,-1.511457
+155,Mon Saint Michel,Uzes,48.636063,-1.511457
+156,Mon Saint Michel,Nimes,48.636063,-1.511457
+157,Mon Saint Michel,Aigues Mortes,48.636063,-1.511457
+158,Mon Saint Michel,Saintes Maries de la mer,48.636063,-1.511457
+159,Mon Saint Michel,Collioure,48.636063,-1.511457
+160,Mon Saint Michel,Carcassonne,48.636063,-1.511457
+161,Mon Saint Michel,Ariege,48.636063,-1.511457
+162,Mon Saint Michel,Toulouse,43.604652,1.444209
+163,Mon Saint Michel,Montauban,48.636063,-1.511457
+164,Mon Saint Michel,Biarritz,48.636063,-1.511457
+165,Mon Saint Michel,Bayonne,48.636063,-1.511457
+166,Mon Saint Michel,La Rochelle,48.636063,-1.511457
+167,Maison au pied du Mont Saint Michel 2,Mont Saint Michel,48.636063,-1.511457
+168,Maison au pied du Mont Saint Michel 2,St Malo,48.649337,-2.025674
+169,Maison au pied du Mont Saint Michel 2,Bayeux,49.27643699999999,-0.70314
+170,Maison au pied du Mont Saint Michel 2,Le Havre,49.49437,0.107929
+171,Maison au pied du Mont Saint Michel 2,Rouen,49.44323199999999,1.099971
+172,Maison au pied du Mont Saint Michel 2,Paris,48.856614,2.3522219
+173,Maison au pied du Mont Saint Michel 2,Amiens,49.894067,2.295753
+174,Maison au pied du Mont Saint Michel 2,Lille,48.636063,-1.511457
+175,Maison au pied du Mont Saint Michel 2,Strasbourg,48.5734053,7.752111299999999
+176,Maison au pied du Mont Saint Michel 2,Chateau du Haut Koenigsbourg,48.636063,-1.511457
+177,Maison au pied du Mont Saint Michel 2,Colmar,48.0793589,7.358511999999999
+178,Maison au pied du Mont Saint Michel 2,Eguisheim,48.043265,7.306521999999999
+179,Maison au pied du Mont Saint Michel 2,Besancon,47.0084788,5.8673331
+180,Maison au pied du Mont Saint Michel 2,Dijon,47.322047,5.04148
+181,Maison au pied du Mont Saint Michel 2,Annecy,45.899247,6.129384
+182,Maison au pied du Mont Saint Michel 2,Grenoble,45.188529,5.724524
+183,Maison au pied du Mont Saint Michel 2,Lyon,45.764043,4.835659
+184,Maison au pied du Mont Saint Michel 2,Gorges du Verdon,48.636063,-1.511457
+185,Maison au pied du Mont Saint Michel 2,Bormes les Mimosas,43.151682,6.342201999999999
+186,Maison au pied du Mont Saint Michel 2,Cassis,48.636063,-1.511457
+187,Maison au pied du Mont Saint Michel 2,Marseille,43.296482,5.36978
+188,Maison au pied du Mont Saint Michel 2,Aix en Provence,43.529742,5.447426999999999
+189,Maison au pied du Mont Saint Michel 2,Avignon,43.94931700000001,4.805528
+190,Maison au pied du Mont Saint Michel 2,Uzes,48.636063,-1.511457
+191,Maison au pied du Mont Saint Michel 2,Nimes,43.836699,4.360054
+192,Maison au pied du Mont Saint Michel 2,Aigues Mortes,43.567172,4.1925869
+193,Maison au pied du Mont Saint Michel 2,Saintes Maries de la mer,43.453241,4.429074
+194,Maison au pied du Mont Saint Michel 2,Collioure,48.636063,-1.511457
+195,Maison au pied du Mont Saint Michel 2,Carcassonne,43.2132151,2.3517703
+196,Maison au pied du Mont Saint Michel 2,Ariege,42.9326292,1.443469
+197,Maison au pied du Mont Saint Michel 2,Toulouse,43.604652,1.444209
+198,Maison au pied du Mont Saint Michel 2,Montauban,44.0221252,1.3529599
+199,Maison au pied du Mont Saint Michel 2,Biarritz,43.4831519,-1.558626
+200,Maison au pied du Mont Saint Michel 2,Bayonne,48.636063,-1.511457
+201,Maison au pied du Mont Saint Michel 2,La Rochelle,48.636063,-1.511457
+202,Camping aux Pommiers - Tohapi,Mont Saint Michel,48.596398,-1.511414
+203,Camping aux Pommiers - Tohapi,St Malo,48.596398,-1.511414
+204,Camping aux Pommiers - Tohapi,Bayeux,49.27643699999999,-0.70314
+205,Camping aux Pommiers - Tohapi,Le Havre,49.5103259,0.1503247
+206,Camping aux Pommiers - Tohapi,Rouen,49.44323199999999,1.099971
+207,Camping aux Pommiers - Tohapi,Paris,48.856614,2.3522219
+208,Camping aux Pommiers - Tohapi,Amiens,49.894067,2.295753
+209,Camping aux Pommiers - Tohapi,Lille,50.62925,3.057256
+210,Camping aux Pommiers - Tohapi,Strasbourg,48.5734053,7.752111299999999
+211,Camping aux Pommiers - Tohapi,Colmar,48.0793589,7.358511999999999
+212,Camping aux Pommiers - Tohapi,Eguisheim,48.043265,7.306521999999999
+213,Camping aux Pommiers - Tohapi,Besancon,47.237829,6.024053899999999
+214,Camping aux Pommiers - Tohapi,Dijon,47.322047,5.04148
+215,Camping aux Pommiers - Tohapi,Annecy,45.899247,6.129384
+216,Camping aux Pommiers - Tohapi,Grenoble,45.188529,5.724524
+217,Camping aux Pommiers - Tohapi,Lyon,45.764043,4.835659
+218,Camping aux Pommiers - Tohapi,Bormes les Mimosas,43.151682,6.342201999999999
+219,Camping aux Pommiers - Tohapi,Marseille,43.296482,5.36978
+220,Camping aux Pommiers - Tohapi,Aix en Provence,43.529742,5.447426999999999
+221,Camping aux Pommiers - Tohapi,Avignon,43.94931700000001,4.805528
+222,Camping aux Pommiers - Tohapi,Uzes,44.01211,4.419945999999999
+223,Camping aux Pommiers - Tohapi,Nimes,43.836699,4.360054
+224,Camping aux Pommiers - Tohapi,Aigues Mortes,43.567172,4.1925869
+225,Camping aux Pommiers - Tohapi,Saintes Maries de la mer,43.453241,4.429074
+226,Camping aux Pommiers - Tohapi,Collioure,42.52675199999999,3.084631
+227,Camping aux Pommiers - Tohapi,Carcassonne,43.183563,2.3021204
+228,Camping aux Pommiers - Tohapi,Ariege,42.9326292,1.443469
+229,Camping aux Pommiers - Tohapi,Toulouse,43.604652,1.444209
+230,Camping aux Pommiers - Tohapi,Montauban,44.0221252,1.3529599
+231,Camping aux Pommiers - Tohapi,Biarritz,43.4831519,-1.558626
+232,Camping aux Pommiers - Tohapi,Bayonne,43.492949,-1.474841
+233,Camping aux Pommiers - Tohapi,La Rochelle,46.160329,-1.151139
+234,L'Hirondelle,Mont Saint Michel,48.636063,-1.511457
+235,L'Hirondelle,St Malo,48.649337,-2.025674
+236,L'Hirondelle,Bayeux,49.27643699999999,-0.70314
+237,L'Hirondelle,Le Havre,49.49437,0.107929
+238,L'Hirondelle,Rouen,49.4444035,1.1055447
+239,L'Hirondelle,Paris,48.8403279,2.2989777
+240,L'Hirondelle,Amiens,49.894067,2.295753
+241,L'Hirondelle,Lille,50.6352424,3.1134754
+242,L'Hirondelle,Strasbourg,48.5860358,7.7406555
+243,L'Hirondelle,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+244,L'Hirondelle,Colmar,48.0793589,7.358511999999999
+245,L'Hirondelle,Eguisheim,48.043265,7.306521999999999
+246,L'Hirondelle,Besancon,47.237829,6.024053899999999
+247,L'Hirondelle,Dijon,47.322047,5.04148
+248,L'Hirondelle,Annecy,45.899247,6.129384
+249,L'Hirondelle,Grenoble,45.188529,5.724524
+250,L'Hirondelle,Lyon,45.764043,4.835659
+251,L'Hirondelle,Gorges du Verdon,43.7613593,6.3788372
+252,L'Hirondelle,Bormes les Mimosas,43.151682,6.342201999999999
+253,L'Hirondelle,Cassis,43.215134,5.53712
+254,L'Hirondelle,Marseille,43.3309052,5.4068445
+255,L'Hirondelle,Aix en Provence,43.6963085,5.0379024
+256,L'Hirondelle,Avignon,43.94931700000001,4.805528
+257,L'Hirondelle,Uzes,44.01211,4.419945999999999
+258,L'Hirondelle,Nimes,43.836699,4.360054
+259,L'Hirondelle,Aigues Mortes,43.567172,4.1925869
+260,L'Hirondelle,Saintes Maries de la mer,43.453241,4.429074
+261,L'Hirondelle,Collioure,42.52675199999999,3.084631
+262,L'Hirondelle,Carcassonne,43.2132151,2.3517703
+263,L'Hirondelle,Ariege,42.9326292,1.443469
+264,L'Hirondelle,Toulouse,43.604652,1.444209
+265,L'Hirondelle,Montauban,44.0221252,1.3529599
+266,L'Hirondelle,Biarritz,43.4831519,-1.558626
+267,L'Hirondelle,Bayonne,43.492949,-1.474841
+268,L'Hirondelle,La Rochelle,46.160329,-1.151139
+269,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Mont Saint Michel,48.61473849999999,-1.4874974
+270,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",St Malo,48.649337,-2.025674
+271,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Bayeux,49.27643699999999,-0.70314
+272,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Le Havre,49.49437,0.107929
+273,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Rouen,49.44323199999999,1.099971
+274,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Paris,48.8820677,2.3242524
+275,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Amiens,49.894067,2.295753
+276,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Lille,50.62925,3.057256
+277,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Strasbourg,48.5734053,7.752111299999999
+278,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Colmar,48.0793589,7.358511999999999
+279,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Eguisheim,48.043265,7.306521999999999
+280,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Besancon,47.237829,6.024053899999999
+281,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Dijon,47.322047,5.04148
+282,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Annecy,45.899247,6.129384
+283,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Grenoble,45.1873584,5.7046
+284,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Lyon,45.764043,4.835659
+285,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Bormes les Mimosas,43.151682,6.342201999999999
+286,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Cassis,43.215134,5.53712
+287,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Marseille,43.296482,5.36978
+288,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Aix en Provence,43.529742,5.447426999999999
+289,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Avignon,43.94931700000001,4.805528
+290,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Uzes,44.01211,4.419945999999999
+291,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Nimes,43.836699,4.360054
+292,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Aigues Mortes,43.567172,4.1925869
+293,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Saintes Maries de la mer,43.453241,4.429074
+294,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Collioure,42.52675199999999,3.084631
+295,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Carcassonne,43.2132151,2.3517703
+296,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Ariege,42.9326292,1.443469
+297,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Toulouse,43.604652,1.444209
+298,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Montauban,44.0221252,1.3529599
+299,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Biarritz,43.4831519,-1.558626
+300,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",Bayonne,43.492949,-1.474841
+301,"Chambres d'Hôtes Farcy ""La P'tite Transhumance""",La Rochelle,46.160329,-1.151139
+302,Vent des Grèves,Mont Saint Michel,48.6150203,-1.4912612
+303,Vent des Grèves,St Malo,48.649337,-2.025674
+304,Vent des Grèves,Bayeux,49.27643699999999,-0.70314
+305,Vent des Grèves,Le Havre,49.49437,0.107929
+306,Vent des Grèves,Rouen,49.44323199999999,1.099971
+307,Vent des Grèves,Paris,48.856614,2.3522219
+308,Vent des Grèves,Amiens,49.894067,2.295753
+309,Vent des Grèves,Lille,50.62925,3.057256
+310,Vent des Grèves,Strasbourg,48.5734053,7.752111299999999
+311,Vent des Grèves,Colmar,48.0793589,7.358511999999999
+312,Vent des Grèves,Eguisheim,48.043265,7.306521999999999
+313,Vent des Grèves,Besancon,47.237829,6.024053899999999
+314,Vent des Grèves,Dijon,47.322047,5.04148
+315,Vent des Grèves,Annecy,45.899247,6.129384
+316,Vent des Grèves,Grenoble,45.188529,5.724524
+317,Vent des Grèves,Lyon,45.764043,4.835659
+318,Vent des Grèves,Bormes les Mimosas,43.151682,6.342201999999999
+319,Vent des Grèves,Cassis,43.215134,5.53712
+320,Vent des Grèves,Marseille,43.296482,5.36978
+321,Vent des Grèves,Aix en Provence,43.529742,5.447426999999999
+322,Vent des Grèves,Avignon,43.94931700000001,4.805528
+323,Vent des Grèves,Uzes,44.01211,4.419945999999999
+324,Vent des Grèves,Nimes,43.836699,4.360054
+325,Vent des Grèves,Aigues Mortes,43.567172,4.1925869
+326,Vent des Grèves,Saintes Maries de la mer,43.453241,4.429074
+327,Vent des Grèves,Collioure,42.52675199999999,3.084631
+328,Vent des Grèves,Carcassonne,43.2132151,2.3517703
+329,Vent des Grèves,Ariege,42.9326292,1.443469
+330,Vent des Grèves,Toulouse,43.604652,1.444209
+331,Vent des Grèves,Montauban,44.0221252,1.3529599
+332,Vent des Grèves,Biarritz,43.4831519,-1.558626
+333,Vent des Grèves,Bayonne,43.492949,-1.474841
+334,Vent des Grèves,La Rochelle,46.160329,-1.151139
+335,Etoile des Grèves,Mont Saint Michel,48.615409,-1.4911315
+336,Etoile des Grèves,St Malo,48.649337,-2.025674
+337,Etoile des Grèves,Bayeux,49.27643699999999,-0.70314
+338,Etoile des Grèves,Le Havre,49.49437,0.107929
+339,Etoile des Grèves,Rouen,49.44323199999999,1.099971
+340,Etoile des Grèves,Paris,48.856614,2.3522219
+341,Etoile des Grèves,Amiens,49.894067,2.295753
+342,Etoile des Grèves,Lille,50.62925,3.057256
+343,Etoile des Grèves,Strasbourg,48.5734053,7.752111299999999
+344,Etoile des Grèves,Colmar,48.0793589,7.358511999999999
+345,Etoile des Grèves,Eguisheim,48.043265,7.306521999999999
+346,Etoile des Grèves,Besancon,47.237829,6.024053899999999
+347,Etoile des Grèves,Dijon,47.322047,5.04148
+348,Etoile des Grèves,Annecy,45.899247,6.129384
+349,Etoile des Grèves,Grenoble,45.188529,5.724524
+350,Etoile des Grèves,Lyon,45.764043,4.835659
+351,Etoile des Grèves,Bormes les Mimosas,43.151682,6.342201999999999
+352,Etoile des Grèves,Cassis,43.215134,5.53712
+353,Etoile des Grèves,Marseille,43.296482,5.36978
+354,Etoile des Grèves,Aix en Provence,43.529742,5.447426999999999
+355,Etoile des Grèves,Avignon,43.94931700000001,4.805528
+356,Etoile des Grèves,Uzes,44.01211,4.419945999999999
+357,Etoile des Grèves,Nimes,43.836699,4.360054
+358,Etoile des Grèves,Aigues Mortes,43.567172,4.1925869
+359,Etoile des Grèves,Saintes Maries de la mer,43.453241,4.429074
+360,Etoile des Grèves,Collioure,42.52675199999999,3.084631
+361,Etoile des Grèves,Carcassonne,43.2132151,2.3517703
+362,Etoile des Grèves,Ariege,42.9326292,1.443469
+363,Etoile des Grèves,Toulouse,43.604652,1.444209
+364,Etoile des Grèves,Montauban,44.0221252,1.3529599
+365,Etoile des Grèves,Biarritz,43.4831519,-1.558626
+366,Etoile des Grèves,Bayonne,43.492949,-1.474841
+367,Etoile des Grèves,La Rochelle,46.160329,-1.151139
+368,La Jacotière,Mont Saint Michel,48.6139121,-1.5086283
+369,La Jacotière,St Malo,48.649337,-2.025674
+370,La Jacotière,Bayeux,49.27643699999999,-0.70314
+371,La Jacotière,Le Havre,49.49437,0.107929
+372,La Jacotière,Rouen,49.44323199999999,1.099971
+373,La Jacotière,Paris,48.856614,2.3522219
+374,La Jacotière,Amiens,49.894067,2.295753
+375,La Jacotière,Lille,34.0522342,-118.2436849
+376,La Jacotière,Strasbourg,48.5734053,7.752111299999999
+377,La Jacotière,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+378,La Jacotière,Colmar,48.0793589,7.358511999999999
+379,La Jacotière,Eguisheim,48.043265,7.306521999999999
+380,La Jacotière,Besancon,47.237829,6.024053899999999
+381,La Jacotière,Dijon,47.322047,5.04148
+382,La Jacotière,Annecy,45.899247,6.129384
+383,La Jacotière,Grenoble,45.188529,5.724524
+384,La Jacotière,Lyon,45.764043,4.835659
+385,La Jacotière,Gorges du Verdon,43.7613593,6.3788372
+386,La Jacotière,Bormes les Mimosas,43.151682,6.342201999999999
+387,La Jacotière,Cassis,34.0522342,-118.2436849
+388,La Jacotière,Marseille,43.296482,5.36978
+389,La Jacotière,Aix en Provence,43.529742,5.447426999999999
+390,La Jacotière,Avignon,43.94931700000001,4.805528
+391,La Jacotière,Uzes,44.01211,4.419945999999999
+392,La Jacotière,Nimes,43.836699,4.360054
+393,La Jacotière,Aigues Mortes,43.567172,4.1925869
+394,La Jacotière,Saintes Maries de la mer,43.453241,4.429074
+395,La Jacotière,Collioure,42.52675199999999,3.084631
+396,La Jacotière,Carcassonne,43.2132151,2.3517703
+397,La Jacotière,Ariege,42.9326292,1.443469
+398,La Jacotière,Toulouse,43.604652,1.444209
+399,La Jacotière,Montauban,44.0221252,1.3529599
+400,La Jacotière,Biarritz,43.4831519,-1.558626
+401,La Jacotière,Bayonne,34.0522342,-118.2436849
+402,La Jacotière,La Rochelle,46.160329,-1.151139
+403,Hôtel la Croix Blanche,Mont Saint Michel,48.6354765,-1.5098587
+404,Hôtel la Croix Blanche,St Malo,48.649337,-2.025674
+405,Hôtel la Croix Blanche,Bayeux,49.27643699999999,-0.70314
+406,Hôtel la Croix Blanche,Le Havre,49.5339062,0.1518934
+407,Hôtel la Croix Blanche,Rouen,49.44323199999999,1.099971
+408,Hôtel la Croix Blanche,Paris,48.856614,2.3522219
+409,Hôtel la Croix Blanche,Amiens,49.894067,2.295753
+410,Hôtel la Croix Blanche,Lille,50.62925,3.057256
+411,Hôtel la Croix Blanche,Strasbourg,48.5734053,7.752111299999999
+412,Hôtel la Croix Blanche,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+413,Hôtel la Croix Blanche,Colmar,48.0793589,7.358511999999999
+414,Hôtel la Croix Blanche,Eguisheim,48.043265,7.306521999999999
+415,Hôtel la Croix Blanche,Besancon,47.237829,6.024053899999999
+416,Hôtel la Croix Blanche,Dijon,47.3230055,5.0391159
+417,Hôtel la Croix Blanche,Annecy,45.899247,6.129384
+418,Hôtel la Croix Blanche,Grenoble,45.1625853,5.6941219
+419,Hôtel la Croix Blanche,Lyon,45.764043,4.835659
+420,Hôtel la Croix Blanche,Gorges du Verdon,43.7613593,6.3788372
+421,Hôtel la Croix Blanche,Bormes les Mimosas,43.151682,6.342201999999999
+422,Hôtel la Croix Blanche,Cassis,43.215134,5.53712
+423,Hôtel la Croix Blanche,Marseille,43.296482,5.36978
+424,Hôtel la Croix Blanche,Aix en Provence,43.5569133,5.4062097
+425,Hôtel la Croix Blanche,Avignon,43.94931700000001,4.805528
+426,Hôtel la Croix Blanche,Uzes,44.01211,4.419945999999999
+427,Hôtel la Croix Blanche,Nimes,43.836699,4.360054
+428,Hôtel la Croix Blanche,Aigues Mortes,43.567172,4.1925869
+429,Hôtel la Croix Blanche,Saintes Maries de la mer,43.453241,4.429074
+430,Hôtel la Croix Blanche,Collioure,42.52675199999999,3.084631
+431,Hôtel la Croix Blanche,Carcassonne,43.2132151,2.3517703
+432,Hôtel la Croix Blanche,Ariege,42.9326292,1.443469
+433,Hôtel la Croix Blanche,Toulouse,43.604652,1.444209
+434,Hôtel la Croix Blanche,Montauban,44.0221252,1.3529599
+435,Hôtel la Croix Blanche,Biarritz,43.4831519,-1.558626
+436,Hôtel la Croix Blanche,Bayonne,43.492949,-1.474841
+437,Hôtel la Croix Blanche,La Rochelle,46.160329,-1.151139
+438,Le Relais Saint Michel,Mont Saint Michel,48.6177836,-1.5103336
+439,Le Relais Saint Michel,St Malo,48.649337,-2.025674
+440,Le Relais Saint Michel,Bayeux,49.27643699999999,-0.70314
+441,Le Relais Saint Michel,Le Havre,49.49437,0.107929
+442,Le Relais Saint Michel,Rouen,49.44323199999999,1.099971
+443,Le Relais Saint Michel,Paris,48.856614,2.3522219
+444,Le Relais Saint Michel,Amiens,49.894067,2.295753
+445,Le Relais Saint Michel,Lille,50.62925,3.057256
+446,Le Relais Saint Michel,Strasbourg,48.5734053,7.752111299999999
+447,Le Relais Saint Michel,Chateau du Haut Koenigsbourg,48.636063,-1.511457
+448,Le Relais Saint Michel,Colmar,48.0793589,7.358511999999999
+449,Le Relais Saint Michel,Eguisheim,48.043265,7.306521999999999
+450,Le Relais Saint Michel,Besancon,47.237829,6.024053899999999
+451,Le Relais Saint Michel,Dijon,47.322047,5.04148
+452,Le Relais Saint Michel,Annecy,45.899247,6.129384
+453,Le Relais Saint Michel,Grenoble,45.188529,5.724524
+454,Le Relais Saint Michel,Lyon,45.751753,4.8454647
+455,Le Relais Saint Michel,Bormes les Mimosas,43.151682,6.342201999999999
+456,Le Relais Saint Michel,Cassis,48.636063,-1.511457
+457,Le Relais Saint Michel,Marseille,43.296482,5.36978
+458,Le Relais Saint Michel,Aix en Provence,43.529742,5.447426999999999
+459,Le Relais Saint Michel,Avignon,43.94931700000001,4.805528
+460,Le Relais Saint Michel,Uzes,44.01211,4.419945999999999
+461,Le Relais Saint Michel,Nimes,43.836699,4.360054
+462,Le Relais Saint Michel,Aigues Mortes,43.567172,4.1925869
+463,Le Relais Saint Michel,Saintes Maries de la mer,43.453241,4.429074
+464,Le Relais Saint Michel,Collioure,42.52675199999999,3.084631
+465,Le Relais Saint Michel,Carcassonne,43.2132151,2.3517703
+466,Le Relais Saint Michel,Ariege,43.13532499999999,1.502726
+467,Le Relais Saint Michel,Toulouse,43.604652,1.444209
+468,Le Relais Saint Michel,Montauban,44.0221252,1.3529599
+469,Le Relais Saint Michel,Biarritz,43.4831519,-1.558626
+470,Le Relais Saint Michel,Bayonne,43.492949,-1.474841
+471,Le Relais Saint Michel,La Rochelle,46.160329,-1.151139
+472,Auberge de la Baie,Mont Saint Michel,48.6158124,-1.4883604
+473,Auberge de la Baie,St Malo,48.649337,-2.025674
+474,Auberge de la Baie,Bayeux,49.27643699999999,-0.70314
+475,Auberge de la Baie,Le Havre,49.49437,0.107929
+476,Auberge de la Baie,Rouen,49.44323199999999,1.099971
+477,Auberge de la Baie,Paris,48.856614,2.3522219
+478,Auberge de la Baie,Amiens,49.894067,2.295753
+479,Auberge de la Baie,Lille,50.62925,3.057256
+480,Auberge de la Baie,Strasbourg,48.5734053,7.752111299999999
+481,Auberge de la Baie,Colmar,48.0793589,7.358511999999999
+482,Auberge de la Baie,Eguisheim,48.043265,7.306521999999999
+483,Auberge de la Baie,Besancon,47.237829,6.024053899999999
+484,Auberge de la Baie,Dijon,47.322047,5.04148
+485,Auberge de la Baie,Annecy,45.899247,6.129384
+486,Auberge de la Baie,Grenoble,45.188529,5.724524
+487,Auberge de la Baie,Lyon,45.764043,4.835659
+488,Auberge de la Baie,Bormes les Mimosas,43.151682,6.342201999999999
+489,Auberge de la Baie,Cassis,47.7914444,-64.9536462
+490,Auberge de la Baie,Marseille,43.296482,5.36978
+491,Auberge de la Baie,Aix en Provence,43.529742,5.447426999999999
+492,Auberge de la Baie,Avignon,43.94931700000001,4.805528
+493,Auberge de la Baie,Uzes,44.01211,4.419945999999999
+494,Auberge de la Baie,Nimes,43.836699,4.360054
+495,Auberge de la Baie,Aigues Mortes,43.567172,4.1925869
+496,Auberge de la Baie,Saintes Maries de la mer,43.453241,4.429074
+497,Auberge de la Baie,Collioure,42.52675199999999,3.084631
+498,Auberge de la Baie,Carcassonne,43.2132151,2.3517703
+499,Auberge de la Baie,Ariege,42.9326292,1.443469
+500,Auberge de la Baie,Toulouse,43.604652,1.444209
+501,Auberge de la Baie,Montauban,44.0221252,1.3529599
+502,Auberge de la Baie,Biarritz,43.4831519,-1.558626
+503,Auberge de la Baie,Bayonne,43.492949,-1.474841
+504,Auberge de la Baie,La Rochelle,46.160329,-1.151139
+505,Le Saint Aubert,Mont Saint Michel,48.61344279999999,-1.5091573
+506,Le Saint Aubert,St Malo,48.649337,-2.025674
+507,Le Saint Aubert,Bayeux,49.27643699999999,-0.70314
+508,Le Saint Aubert,Le Havre,49.49437,0.107929
+509,Le Saint Aubert,Rouen,49.3294891,1.0998753
+510,Le Saint Aubert,Paris,48.8643011,2.3787669
+511,Le Saint Aubert,Amiens,49.894067,2.295753
+512,Le Saint Aubert,Lille,50.6312094,3.0260456
+513,Le Saint Aubert,Colmar,48.0793589,7.358511999999999
+514,Le Saint Aubert,Eguisheim,48.043265,7.306521999999999
+515,Le Saint Aubert,Besancon,47.21789159999999,5.9516177
+516,Le Saint Aubert,Dijon,47.322047,5.04148
+517,Le Saint Aubert,Annecy,45.937955,6.078897
+518,Le Saint Aubert,Grenoble,45.188529,5.724524
+519,Le Saint Aubert,Lyon,45.764043,4.835659
+520,Le Saint Aubert,Bormes les Mimosas,43.151682,6.342201999999999
+521,Le Saint Aubert,Cassis,43.215134,5.53712
+522,Le Saint Aubert,Marseille,43.296482,5.36978
+523,Le Saint Aubert,Aix en Provence,43.529742,5.447426999999999
+524,Le Saint Aubert,Avignon,43.9219445,4.8598311
+525,Le Saint Aubert,Uzes,44.01211,4.419945999999999
+526,Le Saint Aubert,Nimes,43.8080582,4.3636871
+527,Le Saint Aubert,Aigues Mortes,43.567172,4.1925869
+528,Le Saint Aubert,Saintes Maries de la mer,43.453241,4.429074
+529,Le Saint Aubert,Collioure,42.52675199999999,3.084631
+530,Le Saint Aubert,Carcassonne,43.205162,2.3096089
+531,Le Saint Aubert,Ariege,42.9326292,1.443469
+532,Le Saint Aubert,Toulouse,43.5989312,1.442855
+533,Le Saint Aubert,Montauban,44.0001211,1.3533917
+534,Le Saint Aubert,Biarritz,43.4831519,-1.558626
+535,Le Saint Aubert,La Rochelle,46.160329,-1.151139
+536,Hotel De La Digue,Mont Saint Michel,48.6168864,-1.5110941
+537,Hotel De La Digue,St Malo,48.649337,-2.025674
+538,Hotel De La Digue,Bayeux,49.27643699999999,-0.70314
+539,Hotel De La Digue,Le Havre,49.49437,0.107929
+540,Hotel De La Digue,Rouen,49.44323199999999,1.099971
+541,Hotel De La Digue,Paris,48.856614,2.3522219
+542,Hotel De La Digue,Amiens,49.894067,2.295753
+543,Hotel De La Digue,Strasbourg,48.5734053,7.752111299999999
+544,Hotel De La Digue,Colmar,48.0793589,7.358511999999999
+545,Hotel De La Digue,Eguisheim,48.043265,7.306521999999999
+546,Hotel De La Digue,Besancon,47.237829,6.024053899999999
+547,Hotel De La Digue,Dijon,47.322047,5.04148
+548,Hotel De La Digue,Annecy,45.899247,6.129384
+549,Hotel De La Digue,Grenoble,45.188529,5.724524
+550,Hotel De La Digue,Lyon,45.764043,4.835659
+551,Hotel De La Digue,Bormes les Mimosas,43.151682,6.342201999999999
+552,Hotel De La Digue,Cassis,43.215134,5.53712
+553,Hotel De La Digue,Marseille,43.296482,5.36978
+554,Hotel De La Digue,Aix en Provence,43.529742,5.447426999999999
+555,Hotel De La Digue,Avignon,43.94931700000001,4.805528
+556,Hotel De La Digue,Uzes,44.01211,4.419945999999999
+557,Hotel De La Digue,Nimes,43.836699,4.360054
+558,Hotel De La Digue,Aigues Mortes,43.567172,4.1925869
+559,Hotel De La Digue,Saintes Maries de la mer,43.453241,4.429074
+560,Hotel De La Digue,Collioure,42.52675199999999,3.084631
+561,Hotel De La Digue,Carcassonne,43.2132151,2.3517703
+562,Hotel De La Digue,Ariege,42.9326292,1.443469
+563,Hotel De La Digue,Toulouse,43.604652,1.444209
+564,Hotel De La Digue,Montauban,44.0221252,1.3529599
+565,Hotel De La Digue,Biarritz,43.4831519,-1.558626
+566,Hotel De La Digue,Bayonne,43.492949,-1.474841
+567,Hotel De La Digue,La Rochelle,46.160329,-1.151139
+568,Auberge Saint Pierre,Mont Saint Michel,48.635334,-1.5099784
+569,Auberge Saint Pierre,St Malo,48.635334,-1.5099784
+570,Auberge Saint Pierre,Bayeux,49.27643699999999,-0.70314
+571,Auberge Saint Pierre,Le Havre,50.24181400000001,-63.598569
+572,Auberge Saint Pierre,Rouen,49.44323199999999,1.099971
+573,Auberge Saint Pierre,Paris,48.8843845,2.3435277
+574,Auberge Saint Pierre,Amiens,49.894067,2.295753
+575,Auberge Saint Pierre,Strasbourg,48.5734053,7.752111299999999
+576,Auberge Saint Pierre,Colmar,48.072657,7.357185
+577,Auberge Saint Pierre,Eguisheim,48.043265,7.306521999999999
+578,Auberge Saint Pierre,Besancon,47.2434924,6.0220701
+579,Auberge Saint Pierre,Dijon,47.31571770000001,5.0423762
+580,Auberge Saint Pierre,Annecy,45.8992124,6.125341799999999
+581,Auberge Saint Pierre,Grenoble,45.188529,5.724524
+582,Auberge Saint Pierre,Lyon,45.764043,4.835659
+583,Auberge Saint Pierre,Bormes les Mimosas,43.151682,6.342201999999999
+584,Auberge Saint Pierre,Cassis,43.215134,5.53712
+585,Auberge Saint Pierre,Marseille,43.2936163,5.4072593
+586,Auberge Saint Pierre,Aix en Provence,43.529742,5.447426999999999
+587,Auberge Saint Pierre,Avignon,43.9492597,4.8081459
+588,Auberge Saint Pierre,Uzes,44.01211,4.419945999999999
+589,Auberge Saint Pierre,Nimes,43.836699,4.360054
+590,Auberge Saint Pierre,Aigues Mortes,43.567172,4.1925869
+591,Auberge Saint Pierre,Saintes Maries de la mer,43.453241,4.429074
+592,Auberge Saint Pierre,Collioure,42.5244613,3.0828002
+593,Auberge Saint Pierre,Carcassonne,43.2132151,2.3517703
+594,Auberge Saint Pierre,Ariege,42.9326292,1.443469
+595,Auberge Saint Pierre,Toulouse,43.604652,1.444209
+596,Auberge Saint Pierre,Montauban,44.0221252,1.3529599
+597,Auberge Saint Pierre,Biarritz,43.4831519,-1.558626
+598,Auberge Saint Pierre,Bayonne,43.492949,-1.474841
+599,Auberge Saint Pierre,La Rochelle,46.160329,-1.151139
+600,Le Relais Du Roy,Mont Saint Michel,48.61632609999999,-1.5110913
+601,Le Relais Du Roy,St Malo,48.649337,-2.025674
+602,Le Relais Du Roy,Le Havre,49.49437,0.107929
+603,Le Relais Du Roy,Paris,48.856614,2.3522219
+604,Le Relais Du Roy,Amiens,49.894067,2.295753
+605,Le Relais Du Roy,Lille,50.62925,3.057256
+606,Le Relais Du Roy,Strasbourg,48.5734053,7.752111299999999
+607,Le Relais Du Roy,Eguisheim,48.043265,7.306521999999999
+608,Le Relais Du Roy,Besancon,47.237829,6.024053899999999
+609,Le Relais Du Roy,Dijon,47.322047,5.04148
+610,Le Relais Du Roy,Annecy,45.899247,6.129384
+611,Le Relais Du Roy,Grenoble,45.188529,5.724524
+612,Le Relais Du Roy,Bormes les Mimosas,43.151682,6.342201999999999
+613,Le Relais Du Roy,Marseille,43.296482,5.36978
+614,Le Relais Du Roy,Aix en Provence,43.529742,5.447426999999999
+615,Le Relais Du Roy,Avignon,43.94931700000001,4.805528
+616,Le Relais Du Roy,Nimes,43.836699,4.360054
+617,Le Relais Du Roy,Aigues Mortes,43.567172,4.1925869
+618,Le Relais Du Roy,Saintes Maries de la mer,43.453241,4.429074
+619,Le Relais Du Roy,Collioure,42.52675199999999,3.084631
+620,Le Relais Du Roy,Carcassonne,43.2132151,2.3517703
+621,Le Relais Du Roy,Ariege,42.9326292,1.443469
+622,Le Relais Du Roy,Toulouse,43.604652,1.444209
+623,Le Relais Du Roy,Montauban,44.0221252,1.3529599
+624,Le Relais Du Roy,Biarritz,43.4831519,-1.558626
+625,Le Relais Du Roy,La Rochelle,46.160329,-1.151139
+626,La Vieille Auberge,Mont Saint Michel,48.6358956,-1.5097946
+627,La Vieille Auberge,St Malo,48.65714939999999,-2.0013838
+628,La Vieille Auberge,Bayeux,49.27643699999999,-0.70314
+629,La Vieille Auberge,Le Havre,49.49437,0.107929
+630,La Vieille Auberge,Rouen,49.44323199999999,1.099971
+631,La Vieille Auberge,Paris,48.856614,2.3522219
+632,La Vieille Auberge,Amiens,49.894067,2.295753
+633,La Vieille Auberge,Lille,50.62925,3.057256
+634,La Vieille Auberge,Strasbourg,48.5734053,7.752111299999999
+635,La Vieille Auberge,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+636,La Vieille Auberge,Colmar,48.0793589,7.358511999999999
+637,La Vieille Auberge,Eguisheim,48.043265,7.306521999999999
+638,La Vieille Auberge,Besancon,47.237829,6.024053899999999
+639,La Vieille Auberge,Dijon,47.322047,5.04148
+640,La Vieille Auberge,Annecy,45.899247,6.129384
+641,La Vieille Auberge,Grenoble,45.188529,5.724524
+642,La Vieille Auberge,Lyon,45.764043,4.835659
+643,La Vieille Auberge,Gorges du Verdon,43.7613593,6.3788372
+644,La Vieille Auberge,Bormes les Mimosas,43.151682,6.342201999999999
+645,La Vieille Auberge,Cassis,43.2146049,5.5357753
+646,La Vieille Auberge,Marseille,43.2146049,5.5357753
+647,La Vieille Auberge,Aix en Provence,43.529742,5.447426999999999
+648,La Vieille Auberge,Avignon,43.94931700000001,4.805528
+649,La Vieille Auberge,Uzes,43.9927419,4.423163499999999
+650,La Vieille Auberge,Nimes,43.836699,4.360054
+651,La Vieille Auberge,Aigues Mortes,43.567172,4.1925869
+652,La Vieille Auberge,Saintes Maries de la mer,43.453241,4.429074
+653,La Vieille Auberge,Collioure,42.52675199999999,3.084631
+654,La Vieille Auberge,Carcassonne,43.2132151,2.3517703
+655,La Vieille Auberge,Ariege,42.9326292,1.443469
+656,La Vieille Auberge,Toulouse,43.604652,1.444209
+657,La Vieille Auberge,Montauban,44.0221252,1.3529599
+658,La Vieille Auberge,Biarritz,43.3886945,-1.6634425
+659,La Vieille Auberge,Bayonne,43.492949,-1.474841
+660,La Vieille Auberge,La Rochelle,46.160329,-1.151139
+661,Hotel Gabriel,Mont Saint Michel,48.6154819,-1.5108623
+662,Hotel Gabriel,St Malo,48.649337,-2.025674
+663,Hotel Gabriel,Bayeux,49.27643699999999,-0.70314
+664,Hotel Gabriel,Le Havre,49.49437,0.107929
+665,Hotel Gabriel,Paris,48.866134,2.36827
+666,Hotel Gabriel,Amiens,49.894067,2.295753
+667,Hotel Gabriel,Lille,48.866134,2.36827
+668,Hotel Gabriel,Strasbourg,48.5734053,7.752111299999999
+669,Hotel Gabriel,Eguisheim,48.043265,7.306521999999999
+670,Hotel Gabriel,Dijon,47.322047,5.04148
+671,Hotel Gabriel,Annecy,45.899247,6.129384
+672,Hotel Gabriel,Grenoble,45.188529,5.724524
+673,Hotel Gabriel,Lyon,40.7055092,-74.0131178
+674,Hotel Gabriel,Gorges du Verdon,43.7613593,6.3788372
+675,Hotel Gabriel,Bormes les Mimosas,43.1498642,6.3425866
+676,Hotel Gabriel,Marseille,43.296482,5.36978
+677,Hotel Gabriel,Aix en Provence,43.529742,5.447426999999999
+678,Hotel Gabriel,Avignon,43.94931700000001,4.805528
+679,Hotel Gabriel,Nimes,43.836699,4.360054
+680,Hotel Gabriel,Aigues Mortes,43.567172,4.1925869
+681,Hotel Gabriel,Saintes Maries de la mer,43.453241,4.429074
+682,Hotel Gabriel,Collioure,42.52675199999999,3.084631
+683,Hotel Gabriel,Carcassonne,43.2132151,2.3517703
+684,Hotel Gabriel,Ariege,42.9326292,1.443469
+685,Hotel Gabriel,Toulouse,43.604652,1.444209
+686,Hotel Gabriel,Montauban,44.0221252,1.3529599
+687,Hotel Gabriel,Biarritz,43.4831519,-1.558626
+688,Hotel Gabriel,Bayonne,43.492949,-1.474841
+689,Hotel Gabriel,La Rochelle,46.160329,-1.151139
+690,Le Mouton Blanc,Mont Saint Michel,48.6357797,-1.5097437
+691,Le Mouton Blanc,St Malo,48.649337,-2.025674
+692,Le Mouton Blanc,Bayeux,49.27643699999999,-0.70314
+693,Le Mouton Blanc,Le Havre,49.49437,0.107929
+694,Le Mouton Blanc,Rouen,49.44323199999999,1.099971
+695,Le Mouton Blanc,Paris,48.8477651,2.265888
+696,Le Mouton Blanc,Amiens,49.894067,2.295753
+697,Le Mouton Blanc,Lille,50.62925,3.057256
+698,Le Mouton Blanc,Strasbourg,48.5734053,7.752111299999999
+699,Le Mouton Blanc,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+700,Le Mouton Blanc,Colmar,48.0793589,7.358511999999999
+701,Le Mouton Blanc,Eguisheim,48.043265,7.306521999999999
+702,Le Mouton Blanc,Besancon,47.237829,6.024053899999999
+703,Le Mouton Blanc,Dijon,47.322047,5.04148
+704,Le Mouton Blanc,Annecy,45.899247,6.129384
+705,Le Mouton Blanc,Grenoble,45.188529,5.724524
+706,Le Mouton Blanc,Lyon,45.764043,4.835659
+707,Le Mouton Blanc,Gorges du Verdon,43.7613593,6.3788372
+708,Le Mouton Blanc,Bormes les Mimosas,43.151682,6.342201999999999
+709,Le Mouton Blanc,Cassis,48.8477651,2.265888
+710,Le Mouton Blanc,Marseille,43.296482,5.36978
+711,Le Mouton Blanc,Aix en Provence,43.529742,5.447426999999999
+712,Le Mouton Blanc,Avignon,43.94931700000001,4.805528
+713,Le Mouton Blanc,Uzes,44.01211,4.419945999999999
+714,Le Mouton Blanc,Nimes,43.8118413,4.3285156
+715,Le Mouton Blanc,Aigues Mortes,43.567172,4.1925869
+716,Le Mouton Blanc,Saintes Maries de la mer,43.453241,4.429074
+717,Le Mouton Blanc,Collioure,42.52675199999999,3.084631
+718,Le Mouton Blanc,Carcassonne,43.2128754,2.3525703
+719,Le Mouton Blanc,Ariege,42.9326292,1.443469
+720,Le Mouton Blanc,Toulouse,43.604652,1.444209
+721,Le Mouton Blanc,Montauban,44.0221252,1.3529599
+722,Le Mouton Blanc,Biarritz,43.4831519,-1.558626
+723,Le Mouton Blanc,Bayonne,43.492949,-1.474841
+724,Le Mouton Blanc,La Rochelle,46.160329,-1.151139
+725,Les Terrasses Poulard,Mont Saint Michel,48.6351889,-1.5103215
+726,Les Terrasses Poulard,St Malo,48.6351889,-1.5103215
+727,Les Terrasses Poulard,Bayeux,49.27643699999999,-0.70314
+728,Les Terrasses Poulard,Le Havre,49.49437,0.107929
+729,Les Terrasses Poulard,Rouen,49.44323199999999,1.099971
+730,Les Terrasses Poulard,Paris,48.8321941,2.3982106
+731,Les Terrasses Poulard,Amiens,49.894067,2.295753
+732,Les Terrasses Poulard,Lille,50.62925,3.057256
+733,Les Terrasses Poulard,Strasbourg,48.5734053,7.752111299999999
+734,Les Terrasses Poulard,Colmar,48.0793589,7.358511999999999
+735,Les Terrasses Poulard,Eguisheim,48.043265,7.306521999999999
+736,Les Terrasses Poulard,Besancon,47.237829,6.024053899999999
+737,Les Terrasses Poulard,Dijon,47.322047,5.04148
+738,Les Terrasses Poulard,Annecy,45.899247,6.129384
+739,Les Terrasses Poulard,Grenoble,44.889165,5.823201
+740,Les Terrasses Poulard,Lyon,45.764043,4.835659
+741,Les Terrasses Poulard,Bormes les Mimosas,43.151682,6.342201999999999
+742,Les Terrasses Poulard,Cassis,43.22651,5.53627
+743,Les Terrasses Poulard,Marseille,43.3669607,5.3539125
+744,Les Terrasses Poulard,Aix en Provence,43.529742,5.447426999999999
+745,Les Terrasses Poulard,Avignon,43.94931700000001,4.805528
+746,Les Terrasses Poulard,Uzes,44.0120087,4.4205802
+747,Les Terrasses Poulard,Nimes,43.836699,4.360054
+748,Les Terrasses Poulard,Aigues Mortes,43.567172,4.1925869
+749,Les Terrasses Poulard,Saintes Maries de la mer,43.453241,4.429074
+750,Les Terrasses Poulard,Collioure,42.52675199999999,3.084631
+751,Les Terrasses Poulard,Carcassonne,43.2132151,2.3517703
+752,Les Terrasses Poulard,Ariege,42.9326292,1.443469
+753,Les Terrasses Poulard,Toulouse,43.604652,1.444209
+754,Les Terrasses Poulard,Montauban,44.0221252,1.3529599
+755,Les Terrasses Poulard,Biarritz,43.4785342,-1.5645334
+756,Les Terrasses Poulard,Bayonne,43.492949,-1.474841
+757,Les Terrasses Poulard,La Rochelle,46.1576768,-1.1732765
+758,La Mère Poulard,Mont Saint Michel,48.6351066,-1.5109527
+759,La Mère Poulard,St Malo,48.6487788,-2.0256363
+760,La Mère Poulard,Bayeux,49.27643699999999,-0.70314
+761,La Mère Poulard,Le Havre,49.49437,0.107929
+762,La Mère Poulard,Rouen,49.44323199999999,1.099971
+763,La Mère Poulard,Paris,48.8659779,2.3340606
+764,La Mère Poulard,Amiens,49.894067,2.295753
+765,La Mère Poulard,Lille,50.62925,3.057256
+766,La Mère Poulard,Strasbourg,48.5734053,7.752111299999999
+767,La Mère Poulard,Colmar,48.0793589,7.358511999999999
+768,La Mère Poulard,Eguisheim,48.043265,7.306521999999999
+769,La Mère Poulard,Besancon,47.237829,6.024053899999999
+770,La Mère Poulard,Dijon,47.322047,5.04148
+771,La Mère Poulard,Annecy,45.899247,6.129384
+772,La Mère Poulard,Grenoble,45.188529,5.724524
+773,La Mère Poulard,Lyon,45.7714429,4.8372134
+774,La Mère Poulard,Bormes les Mimosas,43.151682,6.342201999999999
+775,La Mère Poulard,Cassis,43.215134,5.53712
+776,La Mère Poulard,Marseille,43.296482,5.36978
+777,La Mère Poulard,Aix en Provence,43.529742,5.447426999999999
+778,La Mère Poulard,Avignon,43.94931700000001,4.805528
+779,La Mère Poulard,Uzes,44.01211,4.419945999999999
+780,La Mère Poulard,Nimes,43.836699,4.360054
+781,La Mère Poulard,Aigues Mortes,43.567172,4.1925869
+782,La Mère Poulard,Saintes Maries de la mer,43.453241,4.429074
+783,La Mère Poulard,Collioure,42.52675199999999,3.084631
+784,La Mère Poulard,Carcassonne,43.2132151,2.3517703
+785,La Mère Poulard,Ariege,42.9326292,1.443469
+786,La Mère Poulard,Toulouse,43.604652,1.444209
+787,La Mère Poulard,Montauban,44.0221252,1.3529599
+788,La Mère Poulard,Biarritz,43.4831519,-1.558626
+789,La Mère Poulard,Bayonne,43.492949,-1.474841
+790,La Mère Poulard,La Rochelle,46.160329,-1.151139
+791,Mercure Mont Saint Michel,Mont Saint Michel,48.614335,-1.5106802
+792,Mercure Mont Saint Michel,St Malo,48.614335,-1.5106802
+793,Mercure Mont Saint Michel,Bayeux,48.614335,-1.5106802
+794,Mercure Mont Saint Michel,Le Havre,49.49437,0.107929
+795,Mercure Mont Saint Michel,Rouen,49.44323199999999,1.099971
+796,Mercure Mont Saint Michel,Paris,48.856614,2.3522219
+797,Mercure Mont Saint Michel,Amiens,49.894067,2.295753
+798,Mercure Mont Saint Michel,Lille,48.614335,-1.5106802
+799,Mercure Mont Saint Michel,Strasbourg,48.5734053,7.752111299999999
+800,Mercure Mont Saint Michel,Chateau du Haut Koenigsbourg,48.614335,-1.5106802
+801,Mercure Mont Saint Michel,Colmar,48.0793589,7.358511999999999
+802,Mercure Mont Saint Michel,Eguisheim,48.043265,7.306521999999999
+803,Mercure Mont Saint Michel,Besancon,47.237829,6.024053899999999
+804,Mercure Mont Saint Michel,Dijon,48.614335,-1.5106802
+805,Mercure Mont Saint Michel,Annecy,45.899247,6.129384
+806,Mercure Mont Saint Michel,Grenoble,45.188529,5.724524
+807,Mercure Mont Saint Michel,Lyon,48.614335,-1.5106802
+808,Mercure Mont Saint Michel,Gorges du Verdon,48.614335,-1.5106802
+809,Mercure Mont Saint Michel,Bormes les Mimosas,43.151682,6.342201999999999
+810,Mercure Mont Saint Michel,Cassis,48.614335,-1.5106802
+811,Mercure Mont Saint Michel,Marseille,43.296482,5.36978
+812,Mercure Mont Saint Michel,Aix en Provence,43.529742,5.447426999999999
+813,Mercure Mont Saint Michel,Avignon,43.94931700000001,4.805528
+814,Mercure Mont Saint Michel,Uzes,48.614335,-1.5106802
+815,Mercure Mont Saint Michel,Nimes,43.836699,4.360054
+816,Mercure Mont Saint Michel,Aigues Mortes,43.567172,4.1925869
+817,Mercure Mont Saint Michel,Saintes Maries de la mer,48.614335,-1.5106802
+818,Mercure Mont Saint Michel,Collioure,42.52675199999999,3.084631
+819,Mercure Mont Saint Michel,Carcassonne,48.614335,-1.5106802
+820,Mercure Mont Saint Michel,Ariege,48.614335,-1.5106802
+821,Mercure Mont Saint Michel,Toulouse,43.604652,1.444209
+822,Mercure Mont Saint Michel,Montauban,44.0221252,1.3529599
+823,Mercure Mont Saint Michel,Biarritz,43.4831519,-1.558626
+824,Mercure Mont Saint Michel,Bayonne,43.492949,-1.474841
+825,Mercure Mont Saint Michel,La Rochelle,48.614335,-1.5106802
+826,Maison au pied du Mont Saint Michel,Mont Saint Michel,48.636063,-1.511457
+827,Maison au pied du Mont Saint Michel,St Malo,48.649337,-2.025674
+828,Maison au pied du Mont Saint Michel,Bayeux,49.27643699999999,-0.70314
+829,Maison au pied du Mont Saint Michel,Le Havre,48.636063,-1.511457
+830,Maison au pied du Mont Saint Michel,Rouen,49.44323199999999,1.099971
+831,Maison au pied du Mont Saint Michel,Paris,48.856614,2.3522219
+832,Maison au pied du Mont Saint Michel,Amiens,49.894067,2.295753
+833,Maison au pied du Mont Saint Michel,Lille,48.636063,-1.511457
+834,Maison au pied du Mont Saint Michel,Strasbourg,48.5734053,7.752111299999999
+835,Maison au pied du Mont Saint Michel,Chateau du Haut Koenigsbourg,48.636063,-1.511457
+836,Maison au pied du Mont Saint Michel,Colmar,48.0793589,7.358511999999999
+837,Maison au pied du Mont Saint Michel,Eguisheim,48.043265,7.306521999999999
+838,Maison au pied du Mont Saint Michel,Besancon,48.636063,-1.511457
+839,Maison au pied du Mont Saint Michel,Dijon,47.322047,5.04148
+840,Maison au pied du Mont Saint Michel,Annecy,45.899247,6.129384
+841,Maison au pied du Mont Saint Michel,Grenoble,45.188529,5.724524
+842,Maison au pied du Mont Saint Michel,Lyon,45.764043,4.835659
+843,Maison au pied du Mont Saint Michel,Gorges du Verdon,48.636063,-1.511457
+844,Maison au pied du Mont Saint Michel,Bormes les Mimosas,43.151682,6.342201999999999
+845,Maison au pied du Mont Saint Michel,Cassis,48.636063,-1.511457
+846,Maison au pied du Mont Saint Michel,Marseille,43.296482,5.36978
+847,Maison au pied du Mont Saint Michel,Aix en Provence,43.529742,5.447426999999999
+848,Maison au pied du Mont Saint Michel,Avignon,43.94931700000001,4.805528
+849,Maison au pied du Mont Saint Michel,Uzes,48.636063,-1.511457
+850,Maison au pied du Mont Saint Michel,Nimes,48.636063,-1.511457
+851,Maison au pied du Mont Saint Michel,Aigues Mortes,43.567172,4.1925869
+852,Maison au pied du Mont Saint Michel,Saintes Maries de la mer,43.453241,4.429074
+853,Maison au pied du Mont Saint Michel,Collioure,42.52675199999999,3.084631
+854,Maison au pied du Mont Saint Michel,Carcassonne,48.636063,-1.511457
+855,Maison au pied du Mont Saint Michel,Ariege,42.9326292,1.443469
+856,Maison au pied du Mont Saint Michel,Toulouse,43.604652,1.444209
+857,Maison au pied du Mont Saint Michel,Montauban,44.0221252,1.3529599
+858,Maison au pied du Mont Saint Michel,Biarritz,43.4831519,-1.558626
+859,Maison au pied du Mont Saint Michel,Bayonne,43.492949,-1.474841
+860,Maison au pied du Mont Saint Michel,La Rochelle,48.636063,-1.511457
+861,Best Western Alexandra,Mont Saint Michel,48.636063,-1.511457
+862,Best Western Alexandra,St Malo,48.6571373,-2.0013744
+863,Best Western Alexandra,Bayeux,49.27643699999999,-0.70314
+864,Best Western Alexandra,Le Havre,49.49437,0.107929
+865,Best Western Alexandra,Rouen,49.44323199999999,1.099971
+866,Best Western Alexandra,Paris,48.856614,2.3522219
+867,Best Western Alexandra,Amiens,49.894067,2.295753
+868,Best Western Alexandra,Lille,50.62925,3.057256
+869,Best Western Alexandra,Strasbourg,48.5734053,7.752111299999999
+870,Best Western Alexandra,Colmar,48.0793589,7.358511999999999
+871,Best Western Alexandra,Eguisheim,48.043265,7.306521999999999
+872,Best Western Alexandra,Besancon,47.237829,6.024053899999999
+873,Best Western Alexandra,Dijon,47.322047,5.04148
+874,Best Western Alexandra,Annecy,45.899247,6.129384
+875,Best Western Alexandra,Grenoble,45.188529,5.724524
+876,Best Western Alexandra,Lyon,45.764043,4.835659
+877,Best Western Alexandra,Bormes les Mimosas,43.151682,6.342201999999999
+878,Best Western Alexandra,Cassis,43.215134,5.53712
+879,Best Western Alexandra,Marseille,43.296482,5.36978
+880,Best Western Alexandra,Aix en Provence,43.529742,5.447426999999999
+881,Best Western Alexandra,Avignon,43.94931700000001,4.805528
+882,Best Western Alexandra,Nimes,43.836699,4.360054
+883,Best Western Alexandra,Aigues Mortes,43.567172,4.1925869
+884,Best Western Alexandra,Saintes Maries de la mer,43.453241,4.429074
+885,Best Western Alexandra,Collioure,42.52675199999999,3.084631
+886,Best Western Alexandra,Carcassonne,43.2132151,2.3517703
+887,Best Western Alexandra,Ariege,42.9326292,1.443469
+888,Best Western Alexandra,Toulouse,48.6571373,-2.0013744
+889,Best Western Alexandra,Montauban,44.0221252,1.3529599
+890,Best Western Alexandra,Biarritz,43.4831519,-1.558626
+891,Best Western Alexandra,La Rochelle,31.3123835,-92.4777852
+892,Hôtel de France et Chateaubriand,Mont Saint Michel,48.636063,-1.511457
+893,Hôtel de France et Chateaubriand,St Malo,48.6513613,-2.0241474
+894,Hôtel de France et Chateaubriand,Bayeux,49.27643699999999,-0.70314
+895,Hôtel de France et Chateaubriand,Le Havre,49.49437,0.107929
+896,Hôtel de France et Chateaubriand,Rouen,49.44323199999999,1.099971
+897,Hôtel de France et Chateaubriand,Paris,48.856614,2.3522219
+898,Hôtel de France et Chateaubriand,Amiens,49.894067,2.295753
+899,Hôtel de France et Chateaubriand,Lille,50.62925,3.057256
+900,Hôtel de France et Chateaubriand,Strasbourg,48.5734053,7.752111299999999
+901,Hôtel de France et Chateaubriand,Chateau du Haut Koenigsbourg,46.227638,2.213749
+902,Hôtel de France et Chateaubriand,Colmar,48.0793589,7.358511999999999
+903,Hôtel de France et Chateaubriand,Eguisheim,48.043265,7.306521999999999
+904,Hôtel de France et Chateaubriand,Besancon,47.237829,6.024053899999999
+905,Hôtel de France et Chateaubriand,Dijon,47.322047,5.04148
+906,Hôtel de France et Chateaubriand,Annecy,45.899247,6.129384
+907,Hôtel de France et Chateaubriand,Grenoble,45.188529,5.724524
+908,Hôtel de France et Chateaubriand,Lyon,45.764043,4.835659
+909,Hôtel de France et Chateaubriand,Gorges du Verdon,46.227638,2.213749
+910,Hôtel de France et Chateaubriand,Bormes les Mimosas,43.151682,6.342201999999999
+911,Hôtel de France et Chateaubriand,Cassis,43.215134,5.53712
+912,Hôtel de France et Chateaubriand,Marseille,43.296482,5.36978
+913,Hôtel de France et Chateaubriand,Aix en Provence,43.529742,5.447426999999999
+914,Hôtel de France et Chateaubriand,Avignon,43.94931700000001,4.805528
+915,Hôtel de France et Chateaubriand,Uzes,44.01211,4.419945999999999
+916,Hôtel de France et Chateaubriand,Nimes,43.836699,4.360054
+917,Hôtel de France et Chateaubriand,Aigues Mortes,43.567172,4.1925869
+918,Hôtel de France et Chateaubriand,Saintes Maries de la mer,43.453241,4.429074
+919,Hôtel de France et Chateaubriand,Collioure,42.52675199999999,3.084631
+920,Hôtel de France et Chateaubriand,Carcassonne,43.2132151,2.3517703
+921,Hôtel de France et Chateaubriand,Ariege,42.9326292,1.443469
+922,Hôtel de France et Chateaubriand,Toulouse,43.604652,1.444209
+923,Hôtel de France et Chateaubriand,Montauban,44.0221252,1.3529599
+924,Hôtel de France et Chateaubriand,Biarritz,43.4831519,-1.558626
+925,Hôtel de France et Chateaubriand,Bayonne,43.492949,-1.474841
+926,Hôtel de France et Chateaubriand,La Rochelle,46.160329,-1.151139
+927,Alpha Ocean,Mont Saint Michel,48.636063,-1.511457
+928,Alpha Ocean,St Malo,48.6634003,-1.9895463
+929,Alpha Ocean,Bayeux,49.27643699999999,-0.70314
+930,Alpha Ocean,Le Havre,49.49437,0.107929
+931,Alpha Ocean,Rouen,49.44323199999999,1.099971
+932,Alpha Ocean,Paris,48.856614,2.3522219
+933,Alpha Ocean,Amiens,49.894067,2.295753
+934,Alpha Ocean,Lille,50.62925,3.057256
+935,Alpha Ocean,Strasbourg,48.5734053,7.752111299999999
+936,Alpha Ocean,Colmar,48.0793589,7.358511999999999
+937,Alpha Ocean,Eguisheim,48.043265,7.306521999999999
+938,Alpha Ocean,Besancon,47.237829,6.024053899999999
+939,Alpha Ocean,Dijon,47.322047,5.04148
+940,Alpha Ocean,Annecy,45.899247,6.129384
+941,Alpha Ocean,Grenoble,45.188529,5.724524
+942,Alpha Ocean,Lyon,45.764043,4.835659
+943,Alpha Ocean,Gorges du Verdon,43.7613593,6.3788372
+944,Alpha Ocean,Bormes les Mimosas,43.151682,6.342201999999999
+945,Alpha Ocean,Cassis,43.215134,5.53712
+946,Alpha Ocean,Marseille,43.296482,5.36978
+947,Alpha Ocean,Aix en Provence,43.529742,5.447426999999999
+948,Alpha Ocean,Avignon,43.94931700000001,4.805528
+949,Alpha Ocean,Uzes,44.01211,4.419945999999999
+950,Alpha Ocean,Nimes,43.8522345,4.4059307
+951,Alpha Ocean,Aigues Mortes,43.567172,4.1925869
+952,Alpha Ocean,Saintes Maries de la mer,43.453241,4.429074
+953,Alpha Ocean,Collioure,42.52675199999999,3.084631
+954,Alpha Ocean,Carcassonne,43.2132151,2.3517703
+955,Alpha Ocean,Ariege,42.9326292,1.443469
+956,Alpha Ocean,Toulouse,48.6634003,-1.9895463
+957,Alpha Ocean,Montauban,44.0221252,1.3529599
+958,Alpha Ocean,Biarritz,43.4831519,-1.558626
+959,Alpha Ocean,La Rochelle,46.160329,-1.151139
+960,Hotel Ajoncs d'Or,Mont Saint Michel,48.6474528,-2.025185
+961,Hotel Ajoncs d'Or,St Malo,48.6474528,-2.025185
+962,Hotel Ajoncs d'Or,Bayeux,49.27643699999999,-0.70314
+963,Hotel Ajoncs d'Or,Le Havre,49.49437,0.107929
+964,Hotel Ajoncs d'Or,Rouen,49.44323199999999,1.099971
+965,Hotel Ajoncs d'Or,Paris,48.856614,2.3522219
+966,Hotel Ajoncs d'Or,Amiens,49.894067,2.295753
+967,Hotel Ajoncs d'Or,Lille,50.62925,3.057256
+968,Hotel Ajoncs d'Or,Strasbourg,48.5734053,7.752111299999999
+969,Hotel Ajoncs d'Or,Colmar,48.0793589,7.358511999999999
+970,Hotel Ajoncs d'Or,Eguisheim,48.043265,7.306521999999999
+971,Hotel Ajoncs d'Or,Besancon,47.237829,6.024053899999999
+972,Hotel Ajoncs d'Or,Dijon,47.322047,5.04148
+973,Hotel Ajoncs d'Or,Annecy,45.899247,6.129384
+974,Hotel Ajoncs d'Or,Grenoble,45.188529,5.724524
+975,Hotel Ajoncs d'Or,Lyon,45.764043,4.835659
+976,Hotel Ajoncs d'Or,Bormes les Mimosas,43.151682,6.342201999999999
+977,Hotel Ajoncs d'Or,Cassis,43.215134,5.53712
+978,Hotel Ajoncs d'Or,Marseille,43.296482,5.36978
+979,Hotel Ajoncs d'Or,Aix en Provence,43.529742,5.447426999999999
+980,Hotel Ajoncs d'Or,Avignon,43.94931700000001,4.805528
+981,Hotel Ajoncs d'Or,Uzes,44.01211,4.419945999999999
+982,Hotel Ajoncs d'Or,Nimes,43.836699,4.360054
+983,Hotel Ajoncs d'Or,Aigues Mortes,43.567172,4.1925869
+984,Hotel Ajoncs d'Or,Saintes Maries de la mer,43.453241,4.429074
+985,Hotel Ajoncs d'Or,Collioure,42.52675199999999,3.084631
+986,Hotel Ajoncs d'Or,Carcassonne,43.2132151,2.3517703
+987,Hotel Ajoncs d'Or,Ariege,42.9326292,1.443469
+988,Hotel Ajoncs d'Or,Toulouse,43.604652,1.444209
+989,Hotel Ajoncs d'Or,Montauban,44.0221252,1.3529599
+990,Hotel Ajoncs d'Or,Biarritz,43.4831519,-1.558626
+991,Hotel Ajoncs d'Or,Bayonne,43.492949,-1.474841
+992,Hotel Ajoncs d'Or,La Rochelle,46.160329,-1.151139
+993,Le Doris by Cocoonr,Mont Saint Michel,48.636063,-1.511457
+994,Le Doris by Cocoonr,St Malo,48.649337,-2.025674
+995,Le Doris by Cocoonr,Bayeux,49.27643699999999,-0.70314
+996,Le Doris by Cocoonr,Le Havre,49.49437,0.107929
+997,Le Doris by Cocoonr,Rouen,49.44323199999999,1.099971
+998,Le Doris by Cocoonr,Paris,48.856614,2.3522219
+999,Le Doris by Cocoonr,Amiens,49.894067,2.295753
+1000,Le Doris by Cocoonr,Lille,50.62925,3.057256
+1001,Le Doris by Cocoonr,Strasbourg,48.5734053,7.752111299999999
+1002,Le Doris by Cocoonr,Colmar,48.0793589,7.358511999999999
+1003,Le Doris by Cocoonr,Eguisheim,48.043265,7.306521999999999
+1004,Le Doris by Cocoonr,Besancon,47.237829,6.024053899999999
+1005,Le Doris by Cocoonr,Dijon,47.322047,5.04148
+1006,Le Doris by Cocoonr,Annecy,45.899247,6.129384
+1007,Le Doris by Cocoonr,Grenoble,45.188529,5.724524
+1008,Le Doris by Cocoonr,Lyon,45.764043,4.835659
+1009,Le Doris by Cocoonr,Bormes les Mimosas,43.151682,6.342201999999999
+1010,Le Doris by Cocoonr,Marseille,43.28533040000001,5.374717899999999
+1011,Le Doris by Cocoonr,Aix en Provence,43.529742,5.447426999999999
+1012,Le Doris by Cocoonr,Avignon,43.94931700000001,4.805528
+1013,Le Doris by Cocoonr,Uzes,44.01211,4.419945999999999
+1014,Le Doris by Cocoonr,Nimes,43.836699,4.360054
+1015,Le Doris by Cocoonr,Aigues Mortes,43.567172,4.1925869
+1016,Le Doris by Cocoonr,Saintes Maries de la mer,43.453241,4.429074
+1017,Le Doris by Cocoonr,Collioure,42.52675199999999,3.084631
+1018,Le Doris by Cocoonr,Carcassonne,43.2132151,2.3517703
+1019,Le Doris by Cocoonr,Ariege,42.9326292,1.443469
+1020,Le Doris by Cocoonr,Toulouse,43.5988631,1.4359375
+1021,Le Doris by Cocoonr,Montauban,44.0221252,1.3529599
+1022,Le Doris by Cocoonr,Biarritz,43.4831519,-1.558626
+1023,Le Doris by Cocoonr,La Rochelle,46.160329,-1.151139
+1024,Les Chiens du Guet,Mont Saint Michel,48.636063,-1.511457
+1025,Les Chiens du Guet,St Malo,48.6476906,-2.0284949
+1026,Les Chiens du Guet,Bayeux,49.27643699999999,-0.70314
+1027,Les Chiens du Guet,Le Havre,49.49437,0.107929
+1028,Les Chiens du Guet,Rouen,49.44323199999999,1.099971
+1029,Les Chiens du Guet,Paris,48.856614,2.3522219
+1030,Les Chiens du Guet,Amiens,49.894067,2.295753
+1031,Les Chiens du Guet,Lille,50.62925,3.057256
+1032,Les Chiens du Guet,Strasbourg,48.5734053,7.752111299999999
+1033,Les Chiens du Guet,Colmar,48.0793589,7.358511999999999
+1034,Les Chiens du Guet,Eguisheim,48.043265,7.306521999999999
+1035,Les Chiens du Guet,Besancon,47.237829,6.024053899999999
+1036,Les Chiens du Guet,Dijon,47.322047,5.04148
+1037,Les Chiens du Guet,Annecy,45.899247,6.129384
+1038,Les Chiens du Guet,Grenoble,45.188529,5.724524
+1039,Les Chiens du Guet,Lyon,45.764043,4.835659
+1040,Les Chiens du Guet,Bormes les Mimosas,43.151682,6.342201999999999
+1041,Les Chiens du Guet,Cassis,43.215134,5.53712
+1042,Les Chiens du Guet,Marseille,43.296482,5.36978
+1043,Les Chiens du Guet,Aix en Provence,43.529742,5.447426999999999
+1044,Les Chiens du Guet,Avignon,43.94931700000001,4.805528
+1045,Les Chiens du Guet,Uzes,44.01211,4.419945999999999
+1046,Les Chiens du Guet,Nimes,43.836699,4.360054
+1047,Les Chiens du Guet,Aigues Mortes,43.567172,4.1925869
+1048,Les Chiens du Guet,Saintes Maries de la mer,43.453241,4.429074
+1049,Les Chiens du Guet,Collioure,42.52675199999999,3.084631
+1050,Les Chiens du Guet,Carcassonne,43.2132151,2.3517703
+1051,Les Chiens du Guet,Ariege,42.9326292,1.443469
+1052,Les Chiens du Guet,Toulouse,43.604652,1.444209
+1053,Les Chiens du Guet,Montauban,44.0221252,1.3529599
+1054,Les Chiens du Guet,Biarritz,43.4831519,-1.558626
+1055,Les Chiens du Guet,Bayonne,43.492949,-1.474841
+1056,Les Chiens du Guet,La Rochelle,46.160329,-1.151139
+1057,Hôtel de la Cité,Mont Saint Michel,48.636063,-1.511457
+1058,Hôtel de la Cité,St Malo,48.6512121,-2.0251026
+1059,Hôtel de la Cité,Bayeux,49.27643699999999,-0.70314
+1060,Hôtel de la Cité,Le Havre,45.492247,-73.543655
+1061,Hôtel de la Cité,Rouen,49.44323199999999,1.099971
+1062,Hôtel de la Cité,Paris,48.8719761,2.345258
+1063,Hôtel de la Cité,Amiens,49.894067,2.295753
+1064,Hôtel de la Cité,Lille,50.6102062,3.040332
+1065,Hôtel de la Cité,Strasbourg,48.5734053,7.752111299999999
+1066,Hôtel de la Cité,Colmar,48.0793589,7.358511999999999
+1067,Hôtel de la Cité,Eguisheim,48.043265,7.306521999999999
+1068,Hôtel de la Cité,Besancon,47.237829,6.024053899999999
+1069,Hôtel de la Cité,Dijon,47.322047,5.04148
+1070,Hôtel de la Cité,Annecy,45.899247,6.129384
+1071,Hôtel de la Cité,Grenoble,45.188529,5.724524
+1072,Hôtel de la Cité,Lyon,45.764043,4.835659
+1073,Hôtel de la Cité,Gorges du Verdon,43.7613593,6.3788372
+1074,Hôtel de la Cité,Bormes les Mimosas,43.151682,6.342201999999999
+1075,Hôtel de la Cité,Cassis,43.215134,5.53712
+1076,Hôtel de la Cité,Marseille,43.296482,5.36978
+1077,Hôtel de la Cité,Aix en Provence,43.529742,5.447426999999999
+1078,Hôtel de la Cité,Avignon,43.94931700000001,4.805528
+1079,Hôtel de la Cité,Uzes,44.01211,4.419945999999999
+1080,Hôtel de la Cité,Nimes,43.836699,4.360054
+1081,Hôtel de la Cité,Aigues Mortes,43.567172,4.1925869
+1082,Hôtel de la Cité,Saintes Maries de la mer,43.453241,4.429074
+1083,Hôtel de la Cité,Collioure,42.52675199999999,3.084631
+1084,Hôtel de la Cité,Carcassonne,43.20566549999999,2.3626936
+1085,Hôtel de la Cité,Ariege,42.9326292,1.443469
+1086,Hôtel de la Cité,Toulouse,43.604652,1.444209
+1087,Hôtel de la Cité,Montauban,44.0221252,1.3529599
+1088,Hôtel de la Cité,Biarritz,43.4831519,-1.558626
+1089,Hôtel de la Cité,Bayonne,43.492949,-1.474841
+1090,Hôtel de la Cité,La Rochelle,46.160329,-1.151139
+1091,Residence Reine Marine,Mont Saint Michel,48.6692644,-1.9840069
+1092,Residence Reine Marine,St Malo,48.6692644,-1.9840069
+1093,Residence Reine Marine,Bayeux,49.27643699999999,-0.70314
+1094,Residence Reine Marine,Le Havre,49.49437,0.107929
+1095,Residence Reine Marine,Rouen,49.44323199999999,1.099971
+1096,Residence Reine Marine,Paris,48.856614,2.3522219
+1097,Residence Reine Marine,Amiens,49.894067,2.295753
+1098,Residence Reine Marine,Strasbourg,48.5734053,7.752111299999999
+1099,Residence Reine Marine,Colmar,48.0793589,7.358511999999999
+1100,Residence Reine Marine,Eguisheim,48.043265,7.306521999999999
+1101,Residence Reine Marine,Besancon,47.237829,6.024053899999999
+1102,Residence Reine Marine,Dijon,47.322047,5.04148
+1103,Residence Reine Marine,Annecy,45.899247,6.129384
+1104,Residence Reine Marine,Grenoble,45.188529,5.724524
+1105,Residence Reine Marine,Lyon,45.764043,4.835659
+1106,Residence Reine Marine,Bormes les Mimosas,43.151682,6.342201999999999
+1107,Residence Reine Marine,Marseille,43.296482,5.36978
+1108,Residence Reine Marine,Aix en Provence,43.5003163,5.4460586
+1109,Residence Reine Marine,Avignon,43.94931700000001,4.805528
+1110,Residence Reine Marine,Uzes,44.01211,4.419945999999999
+1111,Residence Reine Marine,Nimes,43.836699,4.360054
+1112,Residence Reine Marine,Aigues Mortes,43.567172,4.1925869
+1113,Residence Reine Marine,Saintes Maries de la mer,43.453241,4.429074
+1114,Residence Reine Marine,Collioure,42.52675199999999,3.084631
+1115,Residence Reine Marine,Carcassonne,43.2132151,2.3517703
+1116,Residence Reine Marine,Ariege,42.9326292,1.443469
+1117,Residence Reine Marine,Toulouse,48.6692644,-1.9840069
+1118,Residence Reine Marine,Montauban,44.0221252,1.3529599
+1119,Residence Reine Marine,Biarritz,43.4831519,-1.558626
+1120,Residence Reine Marine,Bayonne,43.492949,-1.474841
+1121,Residence Reine Marine,La Rochelle,46.160329,-1.151139
+1122,Ambassadeurs Logis Hotel,Mont Saint Michel,48.636063,-1.511457
+1123,Ambassadeurs Logis Hotel,St Malo,48.6319149,-1.9815769
+1124,Ambassadeurs Logis Hotel,Bayeux,49.27643699999999,-0.70314
+1125,Ambassadeurs Logis Hotel,Le Havre,49.49437,0.107929
+1126,Ambassadeurs Logis Hotel,Rouen,49.44323199999999,1.099971
+1127,Ambassadeurs Logis Hotel,Paris,48.856614,2.3522219
+1128,Ambassadeurs Logis Hotel,Amiens,49.894067,2.295753
+1129,Ambassadeurs Logis Hotel,Lille,50.62925,3.057256
+1130,Ambassadeurs Logis Hotel,Strasbourg,48.5734053,7.752111299999999
+1131,Ambassadeurs Logis Hotel,Colmar,48.0793589,7.358511999999999
+1132,Ambassadeurs Logis Hotel,Eguisheim,48.043265,7.306521999999999
+1133,Ambassadeurs Logis Hotel,Besancon,47.237829,6.024053899999999
+1134,Ambassadeurs Logis Hotel,Dijon,47.322047,5.04148
+1135,Ambassadeurs Logis Hotel,Annecy,45.899247,6.129384
+1136,Ambassadeurs Logis Hotel,Grenoble,45.188529,5.724524
+1137,Ambassadeurs Logis Hotel,Lyon,45.764043,4.835659
+1138,Ambassadeurs Logis Hotel,Bormes les Mimosas,43.151682,6.342201999999999
+1139,Ambassadeurs Logis Hotel,Cassis,43.215134,5.53712
+1140,Ambassadeurs Logis Hotel,Marseille,43.296482,5.36978
+1141,Ambassadeurs Logis Hotel,Aix en Provence,43.529742,5.447426999999999
+1142,Ambassadeurs Logis Hotel,Avignon,43.94931700000001,4.805528
+1143,Ambassadeurs Logis Hotel,Uzes,44.01211,4.419945999999999
+1144,Ambassadeurs Logis Hotel,Nimes,43.836699,4.360054
+1145,Ambassadeurs Logis Hotel,Aigues Mortes,43.567172,4.1925869
+1146,Ambassadeurs Logis Hotel,Saintes Maries de la mer,43.453241,4.429074
+1147,Ambassadeurs Logis Hotel,Collioure,42.52675199999999,3.084631
+1148,Ambassadeurs Logis Hotel,Carcassonne,43.2132151,2.3517703
+1149,Ambassadeurs Logis Hotel,Ariege,42.9326292,1.443469
+1150,Ambassadeurs Logis Hotel,Toulouse,43.604652,1.444209
+1151,Ambassadeurs Logis Hotel,Montauban,44.0221252,1.3529599
+1152,Ambassadeurs Logis Hotel,Biarritz,43.4831519,-1.558626
+1153,Ambassadeurs Logis Hotel,Bayonne,43.492949,-1.474841
+1154,Ambassadeurs Logis Hotel,La Rochelle,46.160329,-1.151139
+1155,L'AccrocheCoeur,Mont Saint Michel,48.636063,-1.511457
+1156,L'AccrocheCoeur,St Malo,48.6481101,-2.0269573
+1157,L'AccrocheCoeur,Bayeux,49.27643699999999,-0.70314
+1158,L'AccrocheCoeur,Le Havre,49.49437,0.107929
+1159,L'AccrocheCoeur,Rouen,49.44323199999999,1.099971
+1160,L'AccrocheCoeur,Paris,48.856614,2.3522219
+1161,L'AccrocheCoeur,Amiens,49.894067,2.295753
+1162,L'AccrocheCoeur,Lille,50.7032605,3.0931087
+1163,L'AccrocheCoeur,Strasbourg,48.5734053,7.752111299999999
+1164,L'AccrocheCoeur,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+1165,L'AccrocheCoeur,Colmar,48.0793589,7.358511999999999
+1166,L'AccrocheCoeur,Eguisheim,48.043265,7.306521999999999
+1167,L'AccrocheCoeur,Besancon,47.237829,6.024053899999999
+1168,L'AccrocheCoeur,Dijon,47.322047,5.04148
+1169,L'AccrocheCoeur,Annecy,45.899247,6.129384
+1170,L'AccrocheCoeur,Grenoble,45.188529,5.724524
+1171,L'AccrocheCoeur,Lyon,45.764043,4.835659
+1172,L'AccrocheCoeur,Gorges du Verdon,43.7613593,6.3788372
+1173,L'AccrocheCoeur,Bormes les Mimosas,43.151682,6.342201999999999
+1174,L'AccrocheCoeur,Cassis,43.2145774,5.540166699999999
+1175,L'AccrocheCoeur,Marseille,43.296482,5.36978
+1176,L'AccrocheCoeur,Aix en Provence,43.529742,5.447426999999999
+1177,L'AccrocheCoeur,Avignon,43.94931700000001,4.805528
+1178,L'AccrocheCoeur,Uzes,44.01211,4.419945999999999
+1179,L'AccrocheCoeur,Nimes,43.836699,4.360054
+1180,L'AccrocheCoeur,Aigues Mortes,43.567172,4.1925869
+1181,L'AccrocheCoeur,Saintes Maries de la mer,43.453241,4.429074
+1182,L'AccrocheCoeur,Collioure,42.52675199999999,3.084631
+1183,L'AccrocheCoeur,Carcassonne,43.2132151,2.3517703
+1184,L'AccrocheCoeur,Ariege,42.9326292,1.443469
+1185,L'AccrocheCoeur,Toulouse,43.604652,1.444209
+1186,L'AccrocheCoeur,Montauban,44.0221252,1.3529599
+1187,L'AccrocheCoeur,Biarritz,43.4831519,-1.558626
+1188,L'AccrocheCoeur,Bayonne,43.492949,-1.474841
+1189,L'AccrocheCoeur,La Rochelle,46.160329,-1.151139
+1190,Hotel De L'univers,Mont Saint Michel,48.636063,-1.511457
+1191,Hotel De L'univers,St Malo,48.6510673,-2.0239353
+1192,Hotel De L'univers,Bayeux,49.27643699999999,-0.70314
+1193,Hotel De L'univers,Le Havre,49.49437,0.107929
+1194,Hotel De L'univers,Rouen,49.44323199999999,1.099971
+1195,Hotel De L'univers,Paris,48.8534922,2.3378851
+1196,Hotel De L'univers,Amiens,49.89104469999999,2.3042233
+1197,Hotel De L'univers,Lille,50.6236924,3.0744274
+1198,Hotel De L'univers,Strasbourg,48.5734053,7.752111299999999
+1199,Hotel De L'univers,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+1200,Hotel De L'univers,Colmar,48.0793589,7.358511999999999
+1201,Hotel De L'univers,Eguisheim,48.043265,7.306521999999999
+1202,Hotel De L'univers,Besancon,47.237829,6.024053899999999
+1203,Hotel De L'univers,Dijon,47.322047,5.04148
+1204,Hotel De L'univers,Annecy,45.899247,6.129384
+1205,Hotel De L'univers,Grenoble,45.188529,5.724524
+1206,Hotel De L'univers,Lyon,45.764043,4.835659
+1207,Hotel De L'univers,Gorges du Verdon,43.7613593,6.3788372
+1208,Hotel De L'univers,Bormes les Mimosas,43.151682,6.342201999999999
+1209,Hotel De L'univers,Cassis,43.215134,5.53712
+1210,Hotel De L'univers,Marseille,43.296482,5.36978
+1211,Hotel De L'univers,Aix en Provence,43.529742,5.447426999999999
+1212,Hotel De L'univers,Avignon,43.94931700000001,4.805528
+1213,Hotel De L'univers,Uzes,44.01211,4.419945999999999
+1214,Hotel De L'univers,Nimes,43.836699,4.360054
+1215,Hotel De L'univers,Aigues Mortes,43.567172,4.1925869
+1216,Hotel De L'univers,Saintes Maries de la mer,43.453241,4.429074
+1217,Hotel De L'univers,Collioure,42.52675199999999,3.084631
+1218,Hotel De L'univers,Carcassonne,43.2132151,2.3517703
+1219,Hotel De L'univers,Ariege,42.9326292,1.443469
+1220,Hotel De L'univers,Toulouse,43.604652,1.444209
+1221,Hotel De L'univers,Montauban,44.0221252,1.3529599
+1222,Hotel De L'univers,Biarritz,43.4831519,-1.558626
+1223,Hotel De L'univers,Bayonne,43.492949,-1.474841
+1224,Hotel De L'univers,La Rochelle,46.160329,-1.151139
+1225,Escale Oceania Saint Malo,Mont Saint Michel,48.636063,-1.511457
+1226,Escale Oceania Saint Malo,St Malo,48.654319,-2.008571
+1227,Escale Oceania Saint Malo,Bayeux,49.27643699999999,-0.70314
+1228,Escale Oceania Saint Malo,Le Havre,49.49437,0.107929
+1229,Escale Oceania Saint Malo,Rouen,49.44323199999999,1.099971
+1230,Escale Oceania Saint Malo,Paris,48.856614,2.3522219
+1231,Escale Oceania Saint Malo,Amiens,49.894067,2.295753
+1232,Escale Oceania Saint Malo,Lille,48.654319,-2.008571
+1233,Escale Oceania Saint Malo,Strasbourg,48.5734053,7.752111299999999
+1234,Escale Oceania Saint Malo,Chateau du Haut Koenigsbourg,48.654319,-2.008571
+1235,Escale Oceania Saint Malo,Colmar,48.0793589,7.358511999999999
+1236,Escale Oceania Saint Malo,Eguisheim,48.043265,7.306521999999999
+1237,Escale Oceania Saint Malo,Besancon,47.237829,6.024053899999999
+1238,Escale Oceania Saint Malo,Dijon,47.322047,5.04148
+1239,Escale Oceania Saint Malo,Annecy,45.899247,6.129384
+1240,Escale Oceania Saint Malo,Grenoble,45.188529,5.724524
+1241,Escale Oceania Saint Malo,Lyon,45.764043,4.835659
+1242,Escale Oceania Saint Malo,Gorges du Verdon,48.654319,-2.008571
+1243,Escale Oceania Saint Malo,Bormes les Mimosas,43.151682,6.342201999999999
+1244,Escale Oceania Saint Malo,Cassis,48.654319,-2.008571
+1245,Escale Oceania Saint Malo,Marseille,43.296482,5.36978
+1246,Escale Oceania Saint Malo,Aix en Provence,43.529742,5.447426999999999
+1247,Escale Oceania Saint Malo,Avignon,43.94931700000001,4.805528
+1248,Escale Oceania Saint Malo,Uzes,44.01211,4.419945999999999
+1249,Escale Oceania Saint Malo,Nimes,43.836699,4.360054
+1250,Escale Oceania Saint Malo,Aigues Mortes,43.567172,4.1925869
+1251,Escale Oceania Saint Malo,Saintes Maries de la mer,43.453241,4.429074
+1252,Escale Oceania Saint Malo,Collioure,42.52675199999999,3.084631
+1253,Escale Oceania Saint Malo,Carcassonne,43.2132151,2.3517703
+1254,Escale Oceania Saint Malo,Ariege,42.9326292,1.443469
+1255,Escale Oceania Saint Malo,Toulouse,43.604652,1.444209
+1256,Escale Oceania Saint Malo,Montauban,44.0221252,1.3529599
+1257,Escale Oceania Saint Malo,Biarritz,43.4831519,-1.558626
+1258,Escale Oceania Saint Malo,Bayonne,43.492949,-1.474841
+1259,Escale Oceania Saint Malo,La Rochelle,46.160329,-1.151139
+1260,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Mont Saint Michel,48.636063,-1.511457
+1261,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",St Malo,48.648947,-2.0248932
+1262,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Bayeux,48.649337,-2.025674
+1263,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Le Havre,48.649337,-2.025674
+1264,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Rouen,48.649337,-2.025674
+1265,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Paris,48.649337,-2.025674
+1266,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Amiens,48.649337,-2.025674
+1267,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Lille,48.649337,-2.025674
+1268,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Strasbourg,48.5734053,7.752111299999999
+1269,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Chateau du Haut Koenigsbourg,48.649337,-2.025674
+1270,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Colmar,48.649337,-2.025674
+1271,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Eguisheim,48.649337,-2.025674
+1272,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Besancon,48.649337,-2.025674
+1273,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Dijon,48.649337,-2.025674
+1274,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Annecy,48.649337,-2.025674
+1275,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Grenoble,48.649337,-2.025674
+1276,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Lyon,48.649337,-2.025674
+1277,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Gorges du Verdon,48.649337,-2.025674
+1278,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Bormes les Mimosas,48.649337,-2.025674
+1279,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Cassis,48.649337,-2.025674
+1280,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Marseille,43.296482,5.36978
+1281,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Aix en Provence,48.649337,-2.025674
+1282,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Avignon,48.649337,-2.025674
+1283,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Uzes,48.649337,-2.025674
+1284,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Nimes,43.836699,4.360054
+1285,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Aigues Mortes,48.649337,-2.025674
+1286,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Saintes Maries de la mer,48.649337,-2.025674
+1287,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Collioure,48.649337,-2.025674
+1288,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Carcassonne,43.2132151,2.3517703
+1289,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Ariege,48.649337,-2.025674
+1290,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Toulouse,48.649337,-2.025674
+1291,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Montauban,48.649337,-2.025674
+1292,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Biarritz,48.649337,-2.025674
+1293,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",Bayonne,48.649337,-2.025674
+1294,"The Originals Boutique, Hôtel des Marins, Saint-Malo (Inter-Hotel)",La Rochelle,48.649337,-2.025674
+1295,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Mont Saint Michel,48.6478556,-2.0283064
+1296,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,St Malo,48.6478556,-2.0283064
+1297,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Bayeux,49.27643699999999,-0.70314
+1298,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Le Havre,48.6488848,-2.0255273
+1299,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Rouen,48.6488848,-2.0255273
+1300,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Paris,48.6488848,-2.0255273
+1301,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Amiens,48.6488848,-2.0255273
+1302,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Lille,48.6488848,-2.0255273
+1303,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Strasbourg,48.6488848,-2.0255273
+1304,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Chateau du Haut Koenigsbourg,48.6488848,-2.0255273
+1305,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Colmar,48.6488848,-2.0255273
+1306,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Eguisheim,48.6488848,-2.0255273
+1307,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Besancon,48.6488848,-2.0255273
+1308,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Dijon,48.6488848,-2.0255273
+1309,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Annecy,48.6488848,-2.0255273
+1310,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Grenoble,48.6488848,-2.0255273
+1311,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Lyon,48.6488848,-2.0255273
+1312,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Gorges du Verdon,48.6488848,-2.0255273
+1313,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Bormes les Mimosas,48.6488848,-2.0255273
+1314,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Cassis,48.6488848,-2.0255273
+1315,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Marseille,48.6488848,-2.0255273
+1316,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Aix en Provence,48.6488848,-2.0255273
+1317,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Avignon,48.6488848,-2.0255273
+1318,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Uzes,48.6488848,-2.0255273
+1319,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Nimes,48.6488848,-2.0255273
+1320,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Aigues Mortes,48.6488848,-2.0255273
+1321,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Saintes Maries de la mer,48.6488848,-2.0255273
+1322,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Collioure,48.6488848,-2.0255273
+1323,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Carcassonne,48.6488848,-2.0255273
+1324,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Ariege,48.6488848,-2.0255273
+1325,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Toulouse,48.6488848,-2.0255273
+1326,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Montauban,48.6488848,-2.0255273
+1327,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Biarritz,48.6488848,-2.0255273
+1328,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,Bayonne,48.6488848,-2.0255273
+1329,Hôtel La Porte Saint Pierre-Logis Hôtel Intra Muros,La Rochelle,48.6488848,-2.0255273
+1330,Apparts'hôtel l'Europe - centre gare-,Mont Saint Michel,48.636063,-1.511457
+1331,Apparts'hôtel l'Europe - centre gare-,St Malo,48.6466698,-2.0041876
+1332,Apparts'hôtel l'Europe - centre gare-,Bayeux,49.27643699999999,-0.70314
+1333,Apparts'hôtel l'Europe - centre gare-,Le Havre,49.49437,0.107929
+1334,Apparts'hôtel l'Europe - centre gare-,Rouen,49.44323199999999,1.099971
+1335,Apparts'hôtel l'Europe - centre gare-,Paris,48.856614,2.3522219
+1336,Apparts'hôtel l'Europe - centre gare-,Amiens,49.894067,2.295753
+1337,Apparts'hôtel l'Europe - centre gare-,Lille,50.62925,3.057256
+1338,Apparts'hôtel l'Europe - centre gare-,Strasbourg,48.5734053,7.752111299999999
+1339,Apparts'hôtel l'Europe - centre gare-,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+1340,Apparts'hôtel l'Europe - centre gare-,Colmar,48.0793589,7.358511999999999
+1341,Apparts'hôtel l'Europe - centre gare-,Eguisheim,48.043265,7.306521999999999
+1342,Apparts'hôtel l'Europe - centre gare-,Besancon,47.237829,6.024053899999999
+1343,Apparts'hôtel l'Europe - centre gare-,Dijon,47.322047,5.04148
+1344,Apparts'hôtel l'Europe - centre gare-,Annecy,45.899247,6.129384
+1345,Apparts'hôtel l'Europe - centre gare-,Grenoble,45.1911984,5.7137839
+1346,Apparts'hôtel l'Europe - centre gare-,Lyon,45.764043,4.835659
+1347,Apparts'hôtel l'Europe - centre gare-,Gorges du Verdon,43.7613593,6.3788372
+1348,Apparts'hôtel l'Europe - centre gare-,Bormes les Mimosas,43.151682,6.342201999999999
+1349,Apparts'hôtel l'Europe - centre gare-,Cassis,43.215134,5.53712
+1350,Apparts'hôtel l'Europe - centre gare-,Marseille,43.296482,5.36978
+1351,Apparts'hôtel l'Europe - centre gare-,Aix en Provence,43.529742,5.447426999999999
+1352,Apparts'hôtel l'Europe - centre gare-,Avignon,43.94931700000001,4.805528
+1353,Apparts'hôtel l'Europe - centre gare-,Uzes,44.01211,4.419945999999999
+1354,Apparts'hôtel l'Europe - centre gare-,Nimes,43.836699,4.360054
+1355,Apparts'hôtel l'Europe - centre gare-,Aigues Mortes,43.567172,4.1925869
+1356,Apparts'hôtel l'Europe - centre gare-,Saintes Maries de la mer,43.453241,4.429074
+1357,Apparts'hôtel l'Europe - centre gare-,Collioure,42.52675199999999,3.084631
+1358,Apparts'hôtel l'Europe - centre gare-,Carcassonne,43.2132151,2.3517703
+1359,Apparts'hôtel l'Europe - centre gare-,Ariege,42.9326292,1.443469
+1360,Apparts'hôtel l'Europe - centre gare-,Toulouse,43.604652,1.444209
+1361,Apparts'hôtel l'Europe - centre gare-,Montauban,44.0221252,1.3529599
+1362,Apparts'hôtel l'Europe - centre gare-,Biarritz,43.4831519,-1.558626
+1363,Apparts'hôtel l'Europe - centre gare-,Bayonne,43.492949,-1.474841
+1364,Apparts'hôtel l'Europe - centre gare-,La Rochelle,46.160329,-1.151139
+1365,Domaine de la Barbinais,Mont Saint Michel,48.636063,-1.511457
+1366,Domaine de la Barbinais,St Malo,48.6458782,-1.9610019
+1367,Domaine de la Barbinais,Bayeux,49.27643699999999,-0.70314
+1368,Domaine de la Barbinais,Le Havre,49.49437,0.107929
+1369,Domaine de la Barbinais,Rouen,49.44323199999999,1.099971
+1370,Domaine de la Barbinais,Paris,48.856614,2.3522219
+1371,Domaine de la Barbinais,Amiens,49.894067,2.295753
+1372,Domaine de la Barbinais,Lille,50.62925,3.057256
+1373,Domaine de la Barbinais,Strasbourg,48.5734053,7.752111299999999
+1374,Domaine de la Barbinais,Colmar,48.0793589,7.358511999999999
+1375,Domaine de la Barbinais,Eguisheim,48.043265,7.306521999999999
+1376,Domaine de la Barbinais,Besancon,47.237829,6.024053899999999
+1377,Domaine de la Barbinais,Dijon,47.322047,5.04148
+1378,Domaine de la Barbinais,Annecy,45.899247,6.129384
+1379,Domaine de la Barbinais,Grenoble,45.188529,5.724524
+1380,Domaine de la Barbinais,Lyon,45.764043,4.835659
+1381,Domaine de la Barbinais,Bormes les Mimosas,43.151682,6.342201999999999
+1382,Domaine de la Barbinais,Cassis,43.215134,5.53712
+1383,Domaine de la Barbinais,Marseille,43.296482,5.36978
+1384,Domaine de la Barbinais,Aix en Provence,43.529742,5.447426999999999
+1385,Domaine de la Barbinais,Avignon,43.94931700000001,4.805528
+1386,Domaine de la Barbinais,Uzes,44.01211,4.419945999999999
+1387,Domaine de la Barbinais,Nimes,43.836699,4.360054
+1388,Domaine de la Barbinais,Aigues Mortes,43.567172,4.1925869
+1389,Domaine de la Barbinais,Saintes Maries de la mer,43.453241,4.429074
+1390,Domaine de la Barbinais,Collioure,42.52675199999999,3.084631
+1391,Domaine de la Barbinais,Carcassonne,43.2132151,2.3517703
+1392,Domaine de la Barbinais,Ariege,42.9326292,1.443469
+1393,Domaine de la Barbinais,Toulouse,48.6458782,-1.9610019
+1394,Domaine de la Barbinais,Montauban,44.0221252,1.3529599
+1395,Domaine de la Barbinais,Biarritz,43.4831519,-1.558626
+1396,Domaine de la Barbinais,Bayonne,43.492949,-1.474841
+1397,Domaine de la Barbinais,La Rochelle,46.160329,-1.151139
+1398,Malouinière Le Valmarin,Mont Saint Michel,48.636063,-1.511457
+1399,Malouinière Le Valmarin,St Malo,48.6344754,-2.0180433
+1400,Malouinière Le Valmarin,Bayeux,49.27643699999999,-0.70314
+1401,Malouinière Le Valmarin,Le Havre,49.49437,0.107929
+1402,Malouinière Le Valmarin,Rouen,49.44323199999999,1.099971
+1403,Malouinière Le Valmarin,Paris,48.856614,2.3522219
+1404,Malouinière Le Valmarin,Amiens,49.894067,2.295753
+1405,Malouinière Le Valmarin,Lille,50.62925,3.057256
+1406,Malouinière Le Valmarin,Strasbourg,48.5734053,7.752111299999999
+1407,Malouinière Le Valmarin,Colmar,48.0793589,7.358511999999999
+1408,Malouinière Le Valmarin,Eguisheim,48.043265,7.306521999999999
+1409,Malouinière Le Valmarin,Besancon,47.237829,6.024053899999999
+1410,Malouinière Le Valmarin,Dijon,47.322047,5.04148
+1411,Malouinière Le Valmarin,Annecy,45.899247,6.129384
+1412,Malouinière Le Valmarin,Grenoble,45.188529,5.724524
+1413,Malouinière Le Valmarin,Lyon,45.764043,4.835659
+1414,Malouinière Le Valmarin,Bormes les Mimosas,43.151682,6.342201999999999
+1415,Malouinière Le Valmarin,Marseille,43.296482,5.36978
+1416,Malouinière Le Valmarin,Aix en Provence,43.529742,5.447426999999999
+1417,Malouinière Le Valmarin,Avignon,43.94931700000001,4.805528
+1418,Malouinière Le Valmarin,Uzes,44.01211,4.419945999999999
+1419,Malouinière Le Valmarin,Nimes,43.836699,4.360054
+1420,Malouinière Le Valmarin,Aigues Mortes,43.567172,4.1925869
+1421,Malouinière Le Valmarin,Saintes Maries de la mer,43.453241,4.429074
+1422,Malouinière Le Valmarin,Collioure,42.52675199999999,3.084631
+1423,Malouinière Le Valmarin,Carcassonne,43.2132151,2.3517703
+1424,Malouinière Le Valmarin,Ariege,42.9326292,1.443469
+1425,Malouinière Le Valmarin,Toulouse,48.6344754,-2.0180433
+1426,Malouinière Le Valmarin,Montauban,44.0221252,1.3529599
+1427,Malouinière Le Valmarin,Biarritz,43.4831519,-1.558626
+1428,Malouinière Le Valmarin,La Rochelle,46.160329,-1.151139
+1429,Ker Annick,Mont Saint Michel,48.636063,-1.511457
+1430,Ker Annick,St Malo,48.6471001,-2.0087901
+1431,Ker Annick,Bayeux,49.27643699999999,-0.70314
+1432,Ker Annick,Le Havre,49.49437,0.107929
+1433,Ker Annick,Rouen,49.4309793,1.0833333
+1434,Ker Annick,Paris,48.856614,2.3522219
+1435,Ker Annick,Amiens,49.894067,2.295753
+1436,Ker Annick,Lille,50.62925,3.057256
+1437,Ker Annick,Strasbourg,48.602231,7.780961
+1438,Ker Annick,Colmar,48.0793589,7.358511999999999
+1439,Ker Annick,Eguisheim,48.043265,7.306521999999999
+1440,Ker Annick,Besancon,47.2355021,6.0104314
+1441,Ker Annick,Dijon,47.322047,5.04148
+1442,Ker Annick,Annecy,45.899247,6.129384
+1443,Ker Annick,Grenoble,45.188529,5.724524
+1444,Ker Annick,Lyon,45.7684203,4.8583583
+1445,Ker Annick,Bormes les Mimosas,43.151682,6.342201999999999
+1446,Ker Annick,Marseille,43.296482,5.36978
+1447,Ker Annick,Aix en Provence,43.529742,5.447426999999999
+1448,Ker Annick,Avignon,43.94931700000001,4.805528
+1449,Ker Annick,Nimes,43.836699,4.360054
+1450,Ker Annick,Aigues Mortes,43.567172,4.1925869
+1451,Ker Annick,Saintes Maries de la mer,43.453241,4.429074
+1452,Ker Annick,Collioure,42.52675199999999,3.084631
+1453,Ker Annick,Carcassonne,43.2132151,2.3517703
+1454,Ker Annick,Ariege,42.9326292,1.443469
+1455,Ker Annick,Toulouse,43.604652,1.444209
+1456,Ker Annick,Montauban,44.0221252,1.3529599
+1457,Ker Annick,Biarritz,43.4831519,-1.558626
+1458,Ker Annick,La Rochelle,46.160329,-1.151139
+1459,Hôtel Le Nautilus,Mont Saint Michel,48.636063,-1.511457
+1460,Hôtel Le Nautilus,St Malo,48.6507306,-2.0248811
+1461,Hôtel Le Nautilus,Bayeux,49.27643699999999,-0.70314
+1462,Hôtel Le Nautilus,Le Havre,49.49437,0.107929
+1463,Hôtel Le Nautilus,Rouen,49.44323199999999,1.099971
+1464,Hôtel Le Nautilus,Paris,48.856614,2.3522219
+1465,Hôtel Le Nautilus,Amiens,49.910901,2.311955
+1466,Hôtel Le Nautilus,Lille,50.62925,3.057256
+1467,Hôtel Le Nautilus,Strasbourg,48.5734053,7.752111299999999
+1468,Hôtel Le Nautilus,Colmar,48.0793589,7.358511999999999
+1469,Hôtel Le Nautilus,Eguisheim,48.043265,7.306521999999999
+1470,Hôtel Le Nautilus,Besancon,47.237829,6.024053899999999
+1471,Hôtel Le Nautilus,Dijon,47.322047,5.04148
+1472,Hôtel Le Nautilus,Annecy,45.899247,6.129384
+1473,Hôtel Le Nautilus,Grenoble,45.1919011,5.730887999999999
+1474,Hôtel Le Nautilus,Lyon,45.764043,4.835659
+1475,Hôtel Le Nautilus,Bormes les Mimosas,43.151682,6.342201999999999
+1476,Hôtel Le Nautilus,Cassis,43.215134,5.53712
+1477,Hôtel Le Nautilus,Marseille,43.3570295,5.3193296
+1478,Hôtel Le Nautilus,Aix en Provence,43.529742,5.447426999999999
+1479,Hôtel Le Nautilus,Avignon,43.94931700000001,4.805528
+1480,Hôtel Le Nautilus,Uzes,44.01211,4.419945999999999
+1481,Hôtel Le Nautilus,Nimes,43.836699,4.360054
+1482,Hôtel Le Nautilus,Aigues Mortes,43.567172,4.1925869
+1483,Hôtel Le Nautilus,Saintes Maries de la mer,43.4512228,4.4266683
+1484,Hôtel Le Nautilus,Collioure,42.52675199999999,3.084631
+1485,Hôtel Le Nautilus,Carcassonne,43.2132151,2.3517703
+1486,Hôtel Le Nautilus,Ariege,42.9326292,1.443469
+1487,Hôtel Le Nautilus,Toulouse,43.604652,1.444209
+1488,Hôtel Le Nautilus,Montauban,44.0221252,1.3529599
+1489,Hôtel Le Nautilus,Biarritz,43.4831519,-1.558626
+1490,Hôtel Le Nautilus,Bayonne,43.492949,-1.474841
+1491,Hôtel Le Nautilus,La Rochelle,46.160329,-1.151139
+1492,Oceania Saint Malo,Mont Saint Michel,48.636063,-1.511457
+1493,Oceania Saint Malo,St Malo,48.6517639,-2.0185866
+1494,Oceania Saint Malo,Bayeux,48.649337,-2.025674
+1495,Oceania Saint Malo,Le Havre,48.649337,-2.025674
+1496,Oceania Saint Malo,Rouen,48.649337,-2.025674
+1497,Oceania Saint Malo,Paris,48.649337,-2.025674
+1498,Oceania Saint Malo,Amiens,48.649337,-2.025674
+1499,Oceania Saint Malo,Lille,48.649337,-2.025674
+1500,Oceania Saint Malo,Strasbourg,48.649337,-2.025674
+1501,Oceania Saint Malo,Chateau du Haut Koenigsbourg,48.649337,-2.025674
+1502,Oceania Saint Malo,Colmar,48.649337,-2.025674
+1503,Oceania Saint Malo,Eguisheim,48.649337,-2.025674
+1504,Oceania Saint Malo,Besancon,48.649337,-2.025674
+1505,Oceania Saint Malo,Dijon,47.322047,5.04148
+1506,Oceania Saint Malo,Annecy,48.649337,-2.025674
+1507,Oceania Saint Malo,Grenoble,48.649337,-2.025674
+1508,Oceania Saint Malo,Lyon,45.764043,4.835659
+1509,Oceania Saint Malo,Gorges du Verdon,48.649337,-2.025674
+1510,Oceania Saint Malo,Bormes les Mimosas,43.151682,6.342201999999999
+1511,Oceania Saint Malo,Cassis,48.649337,-2.025674
+1512,Oceania Saint Malo,Marseille,48.649337,-2.025674
+1513,Oceania Saint Malo,Aix en Provence,48.649337,-2.025674
+1514,Oceania Saint Malo,Avignon,48.649337,-2.025674
+1515,Oceania Saint Malo,Uzes,48.649337,-2.025674
+1516,Oceania Saint Malo,Nimes,48.649337,-2.025674
+1517,Oceania Saint Malo,Aigues Mortes,48.649337,-2.025674
+1518,Oceania Saint Malo,Saintes Maries de la mer,48.649337,-2.025674
+1519,Oceania Saint Malo,Collioure,48.649337,-2.025674
+1520,Oceania Saint Malo,Carcassonne,48.649337,-2.025674
+1521,Oceania Saint Malo,Ariege,48.649337,-2.025674
+1522,Oceania Saint Malo,Toulouse,43.604652,1.444209
+1523,Oceania Saint Malo,Montauban,48.649337,-2.025674
+1524,Oceania Saint Malo,Biarritz,48.649337,-2.025674
+1525,Oceania Saint Malo,Bayonne,48.649337,-2.025674
+1526,Oceania Saint Malo,La Rochelle,48.6517639,-2.0185866
+1527,Résidence Quai Sud- Le Charcot,Mont Saint Michel,48.636063,-1.511457
+1528,Résidence Quai Sud- Le Charcot,St Malo,48.649337,-2.025674
+1529,Résidence Quai Sud- Le Charcot,Bayeux,49.27643699999999,-0.70314
+1530,Résidence Quai Sud- Le Charcot,Le Havre,49.4985575,0.100597
+1531,Résidence Quai Sud- Le Charcot,Rouen,49.438164,1.0902515
+1532,Résidence Quai Sud- Le Charcot,Paris,48.856614,2.3522219
+1533,Résidence Quai Sud- Le Charcot,Amiens,49.894067,2.295753
+1534,Résidence Quai Sud- Le Charcot,Lille,50.62925,3.057256
+1535,Résidence Quai Sud- Le Charcot,Strasbourg,48.5734053,7.752111299999999
+1536,Résidence Quai Sud- Le Charcot,Colmar,48.0793589,7.358511999999999
+1537,Résidence Quai Sud- Le Charcot,Eguisheim,48.043265,7.306521999999999
+1538,Résidence Quai Sud- Le Charcot,Besancon,47.237829,6.024053899999999
+1539,Résidence Quai Sud- Le Charcot,Dijon,47.322047,5.04148
+1540,Résidence Quai Sud- Le Charcot,Annecy,45.901082,6.121582999999999
+1541,Résidence Quai Sud- Le Charcot,Grenoble,45.188529,5.724524
+1542,Résidence Quai Sud- Le Charcot,Lyon,45.764043,4.835659
+1543,Résidence Quai Sud- Le Charcot,Bormes les Mimosas,43.151682,6.342201999999999
+1544,Résidence Quai Sud- Le Charcot,Cassis,43.215134,5.53712
+1545,Résidence Quai Sud- Le Charcot,Marseille,43.3055784,5.3648585
+1546,Résidence Quai Sud- Le Charcot,Aix en Provence,43.529742,5.447426999999999
+1547,Résidence Quai Sud- Le Charcot,Avignon,43.9523797,4.8253695
+1548,Résidence Quai Sud- Le Charcot,Uzes,44.01211,4.419945999999999
+1549,Résidence Quai Sud- Le Charcot,Nimes,43.8266101,4.3506588
+1550,Résidence Quai Sud- Le Charcot,Aigues Mortes,43.567172,4.1925869
+1551,Résidence Quai Sud- Le Charcot,Saintes Maries de la mer,43.453241,4.429074
+1552,Résidence Quai Sud- Le Charcot,Collioure,42.52675199999999,3.084631
+1553,Résidence Quai Sud- Le Charcot,Carcassonne,43.211735,2.328013
+1554,Résidence Quai Sud- Le Charcot,Ariege,42.9326292,1.443469
+1555,Résidence Quai Sud- Le Charcot,Toulouse,43.604652,1.444209
+1556,Résidence Quai Sud- Le Charcot,Montauban,44.0182692,1.3446544
+1557,Résidence Quai Sud- Le Charcot,Biarritz,43.4831519,-1.558626
+1558,Résidence Quai Sud- Le Charcot,Bayonne,43.492949,-1.474841
+1559,Résidence Quai Sud- Le Charcot,La Rochelle,46.141598,-1.143056
+1560,Hotel Eden,Mont Saint Michel,48.636063,-1.511457
+1561,Hotel Eden,St Malo,48.661987,-1.9894332
+1562,Hotel Eden,Bayeux,49.27643699999999,-0.70314
+1563,Hotel Eden,Le Havre,49.49437,0.107929
+1564,Hotel Eden,Rouen,49.474273,1.1044175
+1565,Hotel Eden,Paris,48.8405612,2.2991035
+1566,Hotel Eden,Amiens,49.894067,2.295753
+1567,Hotel Eden,Lille,50.63337079999999,3.0659695
+1568,Hotel Eden,Strasbourg,48.5784886,7.732043699999999
+1569,Hotel Eden,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+1570,Hotel Eden,Colmar,48.0793589,7.358511999999999
+1571,Hotel Eden,Eguisheim,48.043265,7.306521999999999
+1572,Hotel Eden,Besancon,47.237829,6.024053899999999
+1573,Hotel Eden,Dijon,47.322047,5.04148
+1574,Hotel Eden,Annecy,45.899247,6.129384
+1575,Hotel Eden,Grenoble,45.188529,5.724524
+1576,Hotel Eden,Lyon,45.764043,4.835659
+1577,Hotel Eden,Bormes les Mimosas,43.1527252,6.3428397
+1578,Hotel Eden,Cassis,43.2136229,5.542265899999999
+1579,Hotel Eden,Marseille,43.2967137,5.3810455
+1580,Hotel Eden,Aix en Provence,43.529742,5.447426999999999
+1581,Hotel Eden,Avignon,43.94931700000001,4.805528
+1582,Hotel Eden,Uzes,44.01211,4.419945999999999
+1583,Hotel Eden,Nimes,43.836699,4.360054
+1584,Hotel Eden,Aigues Mortes,43.567172,4.1925869
+1585,Hotel Eden,Saintes Maries de la mer,43.453241,4.429074
+1586,Hotel Eden,Collioure,42.52675199999999,3.084631
+1587,Hotel Eden,Carcassonne,43.2132151,2.3517703
+1588,Hotel Eden,Ariege,42.9326292,1.443469
+1589,Hotel Eden,Toulouse,43.604652,1.444209
+1590,Hotel Eden,Montauban,44.0221252,1.3529599
+1591,Hotel Eden,Biarritz,43.4831519,-1.558626
+1592,Hotel Eden,Bayonne,43.492949,-1.474841
+1593,Hotel Eden,La Rochelle,46.160329,-1.151139
+1594,Hôtel Bristol Union Intra Muros,Mont Saint Michel,48.6497306,-2.0241591
+1595,Hôtel Bristol Union Intra Muros,St Malo,48.6497306,-2.0241591
+1596,Hôtel Bristol Union Intra Muros,Bayeux,48.6497306,-2.0241591
+1597,Hôtel Bristol Union Intra Muros,Le Havre,48.6488848,-2.0255273
+1598,Hôtel Bristol Union Intra Muros,Rouen,48.6488848,-2.0255273
+1599,Hôtel Bristol Union Intra Muros,Paris,48.6488848,-2.0255273
+1600,Hôtel Bristol Union Intra Muros,Amiens,48.6488848,-2.0255273
+1601,Hôtel Bristol Union Intra Muros,Lille,48.6488848,-2.0255273
+1602,Hôtel Bristol Union Intra Muros,Strasbourg,48.6488848,-2.0255273
+1603,Hôtel Bristol Union Intra Muros,Chateau du Haut Koenigsbourg,48.6488848,-2.0255273
+1604,Hôtel Bristol Union Intra Muros,Colmar,48.6488848,-2.0255273
+1605,Hôtel Bristol Union Intra Muros,Eguisheim,48.6488848,-2.0255273
+1606,Hôtel Bristol Union Intra Muros,Besancon,48.6488848,-2.0255273
+1607,Hôtel Bristol Union Intra Muros,Dijon,48.6488848,-2.0255273
+1608,Hôtel Bristol Union Intra Muros,Annecy,48.6488848,-2.0255273
+1609,Hôtel Bristol Union Intra Muros,Grenoble,48.6488848,-2.0255273
+1610,Hôtel Bristol Union Intra Muros,Lyon,45.764043,4.835659
+1611,Hôtel Bristol Union Intra Muros,Gorges du Verdon,48.6488848,-2.0255273
+1612,Hôtel Bristol Union Intra Muros,Bormes les Mimosas,48.6488848,-2.0255273
+1613,Hôtel Bristol Union Intra Muros,Cassis,48.6488848,-2.0255273
+1614,Hôtel Bristol Union Intra Muros,Marseille,48.6488848,-2.0255273
+1615,Hôtel Bristol Union Intra Muros,Aix en Provence,48.6488848,-2.0255273
+1616,Hôtel Bristol Union Intra Muros,Avignon,43.94931700000001,4.805528
+1617,Hôtel Bristol Union Intra Muros,Uzes,48.6488848,-2.0255273
+1618,Hôtel Bristol Union Intra Muros,Nimes,48.6488848,-2.0255273
+1619,Hôtel Bristol Union Intra Muros,Aigues Mortes,48.6488848,-2.0255273
+1620,Hôtel Bristol Union Intra Muros,Saintes Maries de la mer,48.6488848,-2.0255273
+1621,Hôtel Bristol Union Intra Muros,Collioure,48.6488848,-2.0255273
+1622,Hôtel Bristol Union Intra Muros,Carcassonne,48.6488848,-2.0255273
+1623,Hôtel Bristol Union Intra Muros,Ariege,48.6488848,-2.0255273
+1624,Hôtel Bristol Union Intra Muros,Toulouse,48.6488848,-2.0255273
+1625,Hôtel Bristol Union Intra Muros,Montauban,48.6488848,-2.0255273
+1626,Hôtel Bristol Union Intra Muros,Biarritz,48.6488848,-2.0255273
+1627,Hôtel Bristol Union Intra Muros,Bayonne,48.6488848,-2.0255273
+1628,Hôtel Bristol Union Intra Muros,La Rochelle,46.160329,-1.151139
+1629,Villa du Manoir 1685,Mont Saint Michel,48.636063,-1.511457
+1630,Villa du Manoir 1685,St Malo,48.63229339999999,-1.9868367
+1631,Villa du Manoir 1685,Bayeux,49.27645589999999,-0.7031221999999999
+1632,Villa du Manoir 1685,Le Havre,49.49437,0.107929
+1633,Villa du Manoir 1685,Rouen,49.4432242,1.1000446
+1634,Villa du Manoir 1685,Paris,48.8700852,2.3189835
+1635,Villa du Manoir 1685,Amiens,49.894067,2.295753
+1636,Villa du Manoir 1685,Lille,50.62925,3.057256
+1637,Villa du Manoir 1685,Strasbourg,48.5734053,7.752111299999999
+1638,Villa du Manoir 1685,Colmar,48.0793589,7.358511999999999
+1639,Villa du Manoir 1685,Eguisheim,48.043265,7.306521999999999
+1640,Villa du Manoir 1685,Besancon,47.237829,6.024053899999999
+1641,Villa du Manoir 1685,Dijon,47.322047,5.04148
+1642,Villa du Manoir 1685,Annecy,45.899247,6.129384
+1643,Villa du Manoir 1685,Grenoble,45.188529,5.724524
+1644,Villa du Manoir 1685,Lyon,45.764043,4.835659
+1645,Villa du Manoir 1685,Bormes les Mimosas,43.151682,6.342201999999999
+1646,Villa du Manoir 1685,Marseille,43.296482,5.36978
+1647,Villa du Manoir 1685,Aix en Provence,43.529742,5.447426999999999
+1648,Villa du Manoir 1685,Avignon,43.94931700000001,4.805528
+1649,Villa du Manoir 1685,Uzes,44.01211,4.419945999999999
+1650,Villa du Manoir 1685,Nimes,43.836699,4.360054
+1651,Villa du Manoir 1685,Aigues Mortes,43.567172,4.1925869
+1652,Villa du Manoir 1685,Saintes Maries de la mer,43.453241,4.429074
+1653,Villa du Manoir 1685,Collioure,42.52675199999999,3.084631
+1654,Villa du Manoir 1685,Carcassonne,43.2132151,2.3517703
+1655,Villa du Manoir 1685,Ariege,42.9326292,1.443469
+1656,Villa du Manoir 1685,Toulouse,43.597625,1.398971
+1657,Villa du Manoir 1685,Montauban,44.0221252,1.3529599
+1658,Villa du Manoir 1685,Biarritz,43.4831519,-1.558626
+1659,Villa du Manoir 1685,Bayonne,43.492949,-1.474841
+1660,Villa du Manoir 1685,La Rochelle,46.160329,-1.151139
+1661,Studio cocooning,Mont Saint Michel,48.636063,-1.511457
+1662,Studio cocooning,St Malo,48.649337,-2.025674
+1663,Studio cocooning,Bayeux,49.27643699999999,-0.70314
+1664,Studio cocooning,Le Havre,49.49437,0.107929
+1665,Studio cocooning,Rouen,49.44323199999999,1.099971
+1666,Studio cocooning,Paris,48.839263,2.3605697
+1667,Studio cocooning,Amiens,49.894067,2.295753
+1668,Studio cocooning,Strasbourg,48.5734053,7.752111299999999
+1669,Studio cocooning,Chateau du Haut Koenigsbourg,48.2494853,7.3444831
+1670,Studio cocooning,Colmar,48.0793589,7.358511999999999
+1671,Studio cocooning,Eguisheim,48.043265,7.306521999999999
+1672,Studio cocooning,Besancon,47.237829,6.024053899999999
+1673,Studio cocooning,Dijon,47.322047,5.04148
+1674,Studio cocooning,Annecy,45.899247,6.129384
+1675,Studio cocooning,Grenoble,45.188529,5.724524
+1676,Studio cocooning,Lyon,45.764043,4.835659
+1677,Studio cocooning,Bormes les Mimosas,43.151682,6.342201999999999
+1678,Studio cocooning,Marseille,43.296482,5.36978
+1679,Studio cocooning,Aix en Provence,43.529742,5.447426999999999
+1680,Studio cocooning,Avignon,43.948936,4.812355699999999
+1681,Studio cocooning,Uzes,44.01211,4.419945999999999
+1682,Studio cocooning,Nimes,43.836699,4.360054
+1683,Studio cocooning,Aigues Mortes,43.567172,4.1925869
+1684,Studio cocooning,Saintes Maries de la mer,43.453241,4.429074
+1685,Studio cocooning,Collioure,42.52675199999999,3.084631
+1686,Studio cocooning,Carcassonne,43.2132151,2.3517703
+1687,Studio cocooning,Ariege,42.9326292,1.443469
+1688,Studio cocooning,Toulouse,43.604652,1.444209
+1689,Studio cocooning,Montauban,44.0221252,1.3529599
+1690,Studio cocooning,Biarritz,43.4831519,-1.558626
+1691,Studio cocooning,Bayonne,43.492949,-1.474841
+1692,Studio cocooning,La Rochelle,46.160329,-1.151139
+1693,Apartment Le 1727,Mont Saint Michel,48.636063,-1.511457
+1694,Apartment Le 1727,St Malo,48.6468175,-2.0242446
+1695,Apartment Le 1727,Bayeux,49.27643699999999,-0.70314
+1696,Apartment Le 1727,Le Havre,49.49437,0.107929
+1697,Apartment Le 1727,Rouen,49.44323199999999,1.099971
+1698,Apartment Le 1727,Amiens,49.894067,2.295753
+1699,Apartment Le 1727,Lille,50.62925,3.057256
+1700,Apartment Le 1727,Strasbourg,48.5734053,7.752111299999999
+1701,Apartment Le 1727,Colmar,48.0793589,7.358511999999999
+1702,Apartment Le 1727,Eguisheim,48.043265,7.306521999999999
+1703,Apartment Le 1727,Besancon,47.237829,6.024053899999999
+1704,Apartment Le 1727,Dijon,47.322047,5.04148
+1705,Apartment Le 1727,Annecy,45.899247,6.129384
+1706,Apartment Le 1727,Grenoble,45.188529,5.724524
+1707,Apartment Le 1727,Lyon,45.764043,4.835659
+1708,Apartment Le 1727,Bormes les Mimosas,43.151682,6.342201999999999
+1709,Apartment Le 1727,Marseille,43.296482,5.36978
+1710,Apartment Le 1727,Aix en Provence,43.529742,5.447426999999999
+1711,Apartment Le 1727,Avignon,43.94931700000001,4.805528
+1712,Apartment Le 1727,Uzes,44.01211,4.419945999999999
+1713,Apartment Le 1727,Nimes,43.836699,4.360054
+1714,Apartment Le 1727,Aigues Mortes,43.567172,4.1925869
+1715,Apartment Le 1727,Saintes Maries de la mer,43.453241,4.429074
+1716,Apartment Le 1727,Collioure,42.52675199999999,3.084631
+1717,Apartment Le 1727,Carcassonne,43.2132151,2.3517703
+1718,Apartment Le 1727,Ariege,42.9326292,1.443469
+1719,Apartment Le 1727,Toulouse,43.604652,1.444209
+1720,Apartment Le 1727,Montauban,44.0221252,1.3529599
+1721,Apartment Le 1727,Biarritz,43.4831519,-1.558626
+1722,Apartment Le 1727,La Rochelle,46.160329,-1.151139
+1723,Hotel Le Croiseur Intra Muros,Mont Saint Michel,48.649587,-2.0246237
+1724,Hotel Le Croiseur Intra Muros,St Malo,48.649587,-2.0246237
+1725,Hotel Le Croiseur Intra Muros,Bayeux,48.649587,-2.0246237
+1726,Hotel Le Croiseur Intra Muros,Le Havre,48.6488848,-2.0255273
+1727,Hotel Le Croiseur Intra Muros,Rouen,48.6488848,-2.0255273
+1728,Hotel Le Croiseur Intra Muros,Paris,48.6488848,-2.0255273
+1729,Hotel Le Croiseur Intra Muros,Amiens,48.6488848,-2.0255273
+1730,Hotel Le Croiseur Intra Muros,Lille,48.6488848,-2.0255273
+1731,Hotel Le Croiseur Intra Muros,Strasbourg,48.6488848,-2.0255273
+1732,Hotel Le Croiseur Intra Muros,Chateau du Haut Koenigsbourg,48.6488848,-2.0255273
+1733,Hotel Le Croiseur Intra Muros,Colmar,48.6488848,-2.0255273
+1734,Hotel Le Croiseur Intra Muros,Eguisheim,48.6488848,-2.0255273
+1735,Hotel Le Croiseur Intra Muros,Besancon,48.6488848,-2.0255273
+1736,Hotel Le Croiseur Intra Muros,Dijon,48.6488848,-2.0255273
+1737,Hotel Le Croiseur Intra Muros,Annecy,48.6488848,-2.0255273
+1738,Hotel Le Croiseur Intra Muros,Grenoble,48.6488848,-2.0255273
+1739,Hotel Le Croiseur Intra Muros,Lyon,48.6488848,-2.0255273
+1740,Hotel Le Croiseur Intra Muros,Gorges du Verdon,48.6488848,-2.0255273
+1741,Hotel Le Croiseur Intra Muros,Bormes les Mimosas,48.6488848,-2.0255273
+1742,Hotel Le Croiseur Intra Muros,Cassis,48.6488848,-2.0255273
+1743,Hotel Le Croiseur Intra Muros,Marseille,48.6488848,-2.0255273
+1744,Hotel Le Croiseur Intra Muros,Aix en Provence,48.6488848,-2.0255273
+1745,Hotel Le Croiseur Intra Muros,Avignon,43.94931700000001,4.805528
+1746,Hotel Le Croiseur Intra Muros,Uzes,48.6488848,-2.0255273
+1747,Hotel Le Croiseur Intra Muros,Nimes,48.6488848,-2.0255273
+1748,Hotel Le Croiseur Intra Muros,Aigues Mortes,48.6488848,-2.0255273
+1749,Hotel Le Croiseur Intra Muros,Saintes Maries de la mer,48.6488848,-2.0255273
+1750,Hotel Le Croiseur Intra Muros,Collioure,48.6488848,-2.0255273
+1751,Hotel Le Croiseur Intra Muros,Carcassonne,48.6488848,-2.0255273
+1752,Hotel Le Croiseur Intra Muros,Ariege,48.6488848,-2.0255273
+1753,Hotel Le Croiseur Intra Muros,Toulouse,48.6488848,-2.0255273
+1754,Hotel Le Croiseur Intra Muros,Montauban,48.6488848,-2.0255273
+1755,Hotel Le Croiseur Intra Muros,Biarritz,48.6488848,-2.0255273
+1756,Hotel Le Croiseur Intra Muros,Bayonne,48.6488848,-2.0255273
+1757,Hotel Le Croiseur Intra Muros,La Rochelle,48.649587,-2.0246237
+1758,Le Blue Note by Cocoonr - Bel appartement de standing,Mont Saint Michel,48.636063,-1.511457
+1759,Le Blue Note by Cocoonr - Bel appartement de standing,St Malo,48.649337,-2.025674
+1760,Le Blue Note by Cocoonr - Bel appartement de standing,Bayeux,49.27643699999999,-0.70314
+1761,Le Blue Note by Cocoonr - Bel appartement de standing,Le Havre,49.49437,0.107929
+1762,Le Blue Note by Cocoonr - Bel appartement de standing,Rouen,49.44323199999999,1.099971
+1763,Le Blue Note by Cocoonr - Bel appartement de standing,Paris,48.8867633,2.3464682
+1764,Le Blue Note by Cocoonr - Bel appartement de standing,Amiens,49.894067,2.295753
+1765,Le Blue Note by Cocoonr - Bel appartement de standing,Lille,50.62925,3.057256
+1766,Le Blue Note by Cocoonr - Bel appartement de standing,Strasbourg,48.5734053,7.752111299999999
+1767,Le Blue Note by Cocoonr - Bel appartement de standing,Colmar,48.0793589,7.358511999999999
+1768,Le Blue Note by Cocoonr - Bel appartement de standing,Eguisheim,48.043265,7.306521999999999
+1769,Le Blue Note by Cocoonr - Bel appartement de standing,Besancon,47.237829,6.024053899999999
+1770,Le Blue Note by Cocoonr - Bel appartement de standing,Dijon,47.322047,5.04148
+1771,Le Blue Note by Cocoonr - Bel appartement de standing,Annecy,45.899247,6.129384
+1772,Le Blue Note by Cocoonr - Bel appartement de standing,Grenoble,45.188529,5.724524
+1773,Le Blue Note by Cocoonr - Bel appartement de standing,Lyon,45.764043,4.835659
+1774,Le Blue Note by Cocoonr - Bel appartement de standing,Bormes les Mimosas,43.151682,6.342201999999999
+1775,Le Blue Note by Cocoonr - Bel appartement de standing,Marseille,43.296482,5.36978
+1776,Le Blue Note by Cocoonr - Bel appartement de standing,Aix en Provence,43.529742,5.447426999999999
+1777,Le Blue Note by Cocoonr - Bel appartement de standing,Avignon,43.94931700000001,4.805528
+1778,Le Blue Note by Cocoonr - Bel appartement de standing,Uzes,44.01211,4.419945999999999
+1779,Le Blue Note by Cocoonr - Bel appartement de standing,Nimes,43.836699,4.360054
+1780,Le Blue Note by Cocoonr - Bel appartement de standing,Aigues Mortes,43.567172,4.1925869
+1781,Le Blue Note by Cocoonr - Bel appartement de standing,Saintes Maries de la mer,43.453241,4.429074
+1782,Le Blue Note by Cocoonr - Bel appartement de standing,Collioure,42.52675199999999,3.084631
+1783,Le Blue Note by Cocoonr - Bel appartement de standing,Carcassonne,43.2132151,2.3517703
+1784,Le Blue Note by Cocoonr - Bel appartement de standing,Ariege,42.9326292,1.443469
+1785,Le Blue Note by Cocoonr - Bel appartement de standing,Toulouse,43.604652,1.444209
+1786,Le Blue Note by Cocoonr - Bel appartement de standing,Montauban,44.0221252,1.3529599
+1787,Le Blue Note by Cocoonr - Bel appartement de standing,Biarritz,43.4831519,-1.558626
+1788,Le Blue Note by Cocoonr - Bel appartement de standing,Bayonne,40.6687141,-74.1143091
+1789,Le Blue Note by Cocoonr - Bel appartement de standing,La Rochelle,46.160329,-1.151139
+1790,Le Hauban by Cocoonr,Mont Saint Michel,48.636063,-1.511457
+1791,Le Hauban by Cocoonr,St Malo,48.649337,-2.025674
+1792,Le Hauban by Cocoonr,Bayeux,49.27643699999999,-0.70314
+1793,Le Hauban by Cocoonr,Le Havre,49.49437,0.107929
+1794,Le Hauban by Cocoonr,Rouen,49.44323199999999,1.099971
+1795,Le Hauban by Cocoonr,Paris,48.856614,2.3522219
+1796,Le Hauban by Cocoonr,Amiens,49.894067,2.295753
+1797,Le Hauban by Cocoonr,Lille,50.62925,3.057256
+1798,Le Hauban by Cocoonr,Strasbourg,48.5734053,7.752111299999999
+1799,Le Hauban by Cocoonr,Colmar,48.0793589,7.358511999999999
+1800,Le Hauban by Cocoonr,Eguisheim,48.043265,7.306521999999999
+1801,Le Hauban by Cocoonr,Besancon,47.237829,6.024053899999999
+1802,Le Hauban by Cocoonr,Dijon,47.322047,5.04148
+1803,Le Hauban by Cocoonr,Annecy,45.899247,6.129384
+1804,Le Hauban by Cocoonr,Grenoble,45.188529,5.724524
+1805,Le Hauban by Cocoonr,Lyon,45.764043,4.835659
+1806,Le Hauban by Cocoonr,Bormes les Mimosas,43.151682,6.342201999999999
+1807,Le Hauban by Cocoonr,Cassis,43.215134,5.53712
+1808,Le Hauban by Cocoonr,Marseille,43.296482,5.36978
+1809,Le Hauban by Cocoonr,Aix en Provence,43.529742,5.447426999999999
+1810,Le Hauban by Cocoonr,Avignon,43.94931700000001,4.805528
+1811,Le Hauban by Cocoonr,Uzes,44.01211,4.419945999999999
+1812,Le Hauban by Cocoonr,Nimes,43.836699,4.360054
+1813,Le Hauban by Cocoonr,Aigues Mortes,43.567172,4.1925869
+1814,Le Hauban by Cocoonr,Saintes Maries de la mer,43.453241,4.429074
+1815,Le Hauban by Cocoonr,Collioure,42.52675199999999,3.084631
+1816,Le Hauban by Cocoonr,Carcassonne,43.2132151,2.3517703
+1817,Le Hauban by Cocoonr,Ariege,42.9326292,1.443469
+1818,Le Hauban by Cocoonr,Toulouse,43.604652,1.444209
+1819,Le Hauban by Cocoonr,Montauban,44.0221252,1.3529599
+1820,Le Hauban by Cocoonr,Biarritz,43.4831519,-1.558626
+1821,Le Hauban by Cocoonr,Bayonne,43.492949,-1.474841
+1822,Le Hauban by Cocoonr,La Rochelle,46.160329,-1.151139
